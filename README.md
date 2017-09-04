@@ -10,6 +10,8 @@ This website is the created specifically to update tarawinds.org
 <li> Apply to TaraWinds link to google doc </li>
 </ul>
 
+Ссылка на оригинальный вебсайт http://affapress.com/templates/unicom_responsive_multi_purpose_template/html/index-minimalist.html#. Макет очень хороший и прошу обратить внимание на вкладку elements вверху.
+
 
 # Tabs
 <ul>
