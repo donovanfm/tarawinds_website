@@ -21,6 +21,6 @@ This website is the created specifically to update tarawinds.org
 <li>Donate (http://affapress.com/templates/unicom_responsive_multi_purpose_template/html/portfolio-4.html ,  поместить фотографии в разделах friends и corporate sponsors как картинки на портфолио) </li>
 <li>	Schedule (http://affapress.com/templates/unicom_responsive_multi_purpose_template/html/page-search.html  просто оформить как лист) </li>
 <li>	Media (http://affapress.com/templates/unicom_responsive_multi_purpose_template/html/portfolio-2.html оформить подобно donate страницы, они собираются все аудио залить на youtube) </li>
-<li>	Scholarship (http://shapebootstrap.net/item/1526447-unicom-responsive-multi-purpose-template/live-demo , удалить все лишнее справа) </li>
+<li>	Scholarship (http://affapress.com/templates/unicom_responsive_multi_purpose_template/html/page-search.html , удалить все лишнее справа) </li>
 <ul>
 
