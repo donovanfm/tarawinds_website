@@ -143,7 +143,7 @@
 		},
 		
 		// Form functions & settings
-		/*Form: function() {
+		Form: function() {
 			
 			var pattern = /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))$/i;
 			
@@ -210,7 +210,7 @@
 				var submitData	= $form.serialize();
 				var $name		= $form.find('input[name="name"]');
 				var $email		= $form.find('input[name="email"]');
-				var $subject	= $form.find('input[name="subject"]');
+				var $phone	= $form.find('input[name="phone"]');
 				var $message	= $form.find('textarea[name="message"]');
 				var $submit		= $form.find('input[name="submit"]');
 				var status		= true;
@@ -228,7 +228,7 @@
 				if (status) {
 					$name.attr('disabled', 'disabled');
 					$email.attr('disabled', 'disabled');
-					$subject.attr('disabled', 'disabled');
+					$phone.attr('disabled', 'disabled');
 					$message.attr('disabled', 'disabled');
 					$submit.attr('disabled', 'disabled');
 					$.ajax({
@@ -243,14 +243,14 @@
 								if (msg_split[0] === 'success') {
 									$name.val('').removeAttr('disabled').removeClass('error');
 									$email.val('').removeAttr('disabled').removeClass('error');
-									$subject.val('').removeAttr('disabled').removeClass('error');
+									$phone.val('').removeAttr('disabled').removeClass('error');
 									$message.val('').removeAttr('disabled').removeClass('error');
 									$submit.removeAttr('disabled');
 									$form.find('.submit-status').html('<div class="submit-status-text"><span class="success"><i class="ion ion-ios-checkmark-outline"></i> ' + msg_split[1] + '</span></div>').fadeIn(300).delay(3000).fadeOut(300);
 								} else {
 									$name.removeAttr('disabled').removeClass('error');
 									$email.removeAttr('disabled').removeClass('error');
-									$subject.removeAttr('disabled').removeClass('error');
+									$phone.removeAttr('disabled').removeClass('error');
 									$message.removeAttr('disabled').removeClass('error');
 									$submit.removeAttr('disabled').removeClass('error');
 									$form.find('.submit-status').html('<div class="submit-status-text"><span class="error"><i class="ion ion-ios-close-outline"></i> ' + msg_split[1] + '</span></div>').fadeIn(300).delay(3000).fadeOut(300);
@@ -439,24 +439,24 @@
 				return false;
 			});
 			
-		},*/
+		},
         
         // Form functions & settings
-        Form: function() {
-        $('#joinTaraWinds').submit(function(e) {
-            e.preventDefault();
-
-            var url = $(this).attr('action');
-            var data = $(this).serialize();
-
-            $.post(url, data)
-                .done( function(response) {
-                    window.location.href = 'index.html';
-                })
-                .fail( function() {
-                    alert("The AJAX request failed!");
-                });
-        })},
+//        Form: function() {
+//        $('#joinTaraWinds').submit(function(e) {
+//            e.preventDefault();
+//
+//            var url = $(this).attr('action');
+//            var data = $(this).serialize();
+//
+//            $.post(url, data)
+//                .done( function(response) {
+//                    window.location.href = 'contacts.html';
+//                })
+//                .fail( function() {
+//                    alert("The AJAX request failed!");
+//                });
+//        })},
 		
 		// Button functions & settings
 		Button: function() {
