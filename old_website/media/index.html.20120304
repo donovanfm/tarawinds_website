@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Media</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<link href="/greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/audio-player-uncompressed.js"></script>
+<script type="text/javascript">  
+    AudioPlayer.setup("http://tarawinds.org/swf/player.swf", {  
+        width: 290,  
+        initialvolume: 100,  
+        transparentpagebg: "no",  
+        left: "000000",  
+        lefticon: "DDDDDD"  
+    });  
+</script>
+<script type="text/javascript">
+    var GB_ROOT_DIR = "/greybox/";
+</script>
+<script type="text/javascript" src="/greybox/AJS.js"></script>
+<script type="text/javascript" src="/greybox/gb_scripts.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<script type="text/javascript">
+var usm022011 = [{'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_1.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_2.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_3.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_4.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_5.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_6.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_7.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_8.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_9.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_10.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_11.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_12.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_13.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_14.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_15.jpg'}];
+var cbdna2012 = [{'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_1.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_2.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_3.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_4.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_5.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_6.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_7.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_8.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_9.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_10.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_11.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_12.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_13.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_14.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_15.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_16.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_17.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_18.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_19.jpg'}];
+</script>
+
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><a href="/donate">Donate</a></li>
+		<li><a href="/events">Events</a></li>
+		<li><a href="/people">People</a></li>
+		<li><span id="current">Media</span></li>
+		<li><a href="/resources">Resources</a></li>
+		<li><a href="/scholarship">Scholarship</a></li>
+	</ul>
+	
+	<div class="span-11 first">
+		<h1>&#9835; Audio</h1>
+		<p>Please take a moment and listen to some of our audio recordings.</p>
+		<h2>"Suite Dreams"</h2>
+		<p><em>by Steven Bryant</em></p>
+		<p>Performed at JanFest 2009, University of Georgia</p>
+		<p id="audioplayer_1">"Suite Dreams"</p>  
+        <script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_1", {soundFile: "/mp3/suite_dreams.mp3",
+			titles: "Suite Dreams",});  
+        </script>  
+		<h2>"Scottish Dances"</h2>
+		<p><em>by Sir Malcolm Arnold, arr. John Paynter</em></p>
+		<p>Performed at JanFest 2009, University of Georgia</p>
+		<p id="audioplayer_2">"Four Scottish Dances"</p>  
+		<script type="text/javascript">  
+			AudioPlayer.embed("audioplayer_2", {  
+    		soundFile: "/mp3/scottish_dances_1.mp3,/mp3/scottish_dances_2.mp3,/mp3/scottish_dances_3.mp3,/mp3/scottish_dances_4.mp3,",  
+    			titles: "First Movement, Second Movement, Third Movement, Fourth Movement",});  
+		</script>
+		<h2>"Lads of Wamphray"</h2>
+		<p><em>by Percy A. Grainger</em></p>
+		<p>Recorded February 2011</p>
+		<p id="audioplayer_3">"Lads of Wamphray"</p>
+		<script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_3", {soundFile: "/mp3/lads_of_wamphray.mp3",
+			titles: "Lads of Wamphray",});  
+        </script>
+		<h2>"Three Dances of Enchantment"</h2>
+		<p><em>by Luigi Zaninelli</em></p>
+		<p>Recorded February 2011</p>
+		<p id="audioplayer_4">"Three Dances of Enchantment"</p>  
+		<script type="text/javascript">  
+			AudioPlayer.embed("audioplayer_4", {  
+    		soundFile: "/mp3/three_dances_of_enchantment_1.mp3,/mp3/three_dances_of_enchantment_2.mp3,/mp3/three_dances_of_enchantment_3.mp3",  
+    			titles: "The Via Veneto, She Walks Through the Fair, The Feast of Saint Rocco",});  
+		</script>
+	</div>
+	
+	<div class="span-11 prepend-1 last">
+		<h1>&#9835; Video</h1>
+		<p>Although nothing beats seeing a live wind ensemble performance, we hope you enjoy some of these video recordings.</p>
+		<object width="400" height="321"><param name="movie" value="http://www.youtube.com/p/BDA6E92DFF3FE884?hl=en_US&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/p/BDA6E92DFF3FE884?hl=en_US&fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+	</div>
+	
+	<div class="span-24">
+		<h1>&#9835; Photos</h1>
+		<a href="/images/usm022011/usm022011_4.jpg" onclick="return GB_showImageSet(usm022011, 1)"><img class="gallery" src="/images/usm022011/usm022011_cover.jpg" alt="Univerity of Southern Mississippi (February 2011)" /></a>
+		<a href="/images/cbdna2012/cbdna2012_7.jpg" onclick="return GB_showImageSet(cbdna2012, 1)"><img class="gallery" src="/images/cbdna2012/cbdna2012_cover.jpg" alt="Univerity of Southern Mississippi (February 2011)" /></a>
+	</div>
+		
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+		
+	</div>
+</div>
+</body>
+</html>

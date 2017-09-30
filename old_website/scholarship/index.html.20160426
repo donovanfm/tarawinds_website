@@ -1,0 +1,213 @@
+\<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Scholarship</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<link href="/greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]><link rel="stylesheet" href="/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+    var GB_ROOT_DIR = "/greybox/";
+</script>
+<script type="text/javascript" src="/greybox/AJS.js"></script>
+<!-- <script type="text/javascript" src="/greybox/AJS_fx.js"></script> -->
+<script type="text/javascript" src="/greybox/gb_scripts.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+var scholarship = [{'caption': '2015 Tara Winds Scholarship Recipients', 'url': '/images/2015scholarship/2015scholarship1.jpg'},{'caption': '2015 Tara Winds Scholarship Recipients', 'url': '/images/2015scholarship/2015scholarship2.jpg'},{'caption': '2015 Tara Winds Scholarship Recipients', 'url': '/images/2015scholarship/2015scholarship3.jpg'},{'caption': '2015 Tara Winds Scholarship Recipients', 'url': '/images/2015scholarship/2015scholarship4.jpg'},{'caption': '2015 Tara Winds Scholarship Recipients', 'url': '/images/2015scholarship/2015scholarship5.jpg'},{'caption': '2015 Tara Winds Scholarship Recipients', 'url': '/images/2015scholarship/2015scholarship6.jpg'},{'caption': '2015 Tara Winds Scholarship Recipients', 'url': '/images/2015scholarship/2015scholarship7.jpg'}];
+</script>
+
+<div id="topnav">
+	<p><a href="/members/directory">Member Directory</a> &middot; <a href="/members/notes">Rehearsal Notes</a> &middot; <a href="/members/library">Music Library</a></p>
+</div>
+
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><a href="/donate">Donate</a></li>
+		<li><a href="/events">Events</a></li>
+		<li><a href="/people">People</a></li>
+		<li><a href="/media">Media</a></li>
+		<li><a href="/resources">Resources</a></li>
+		<li><span id="current">Scholarship</span></li>
+		<li><a href="/contact">Contact Us</a></li>
+	</ul>
+	
+	<div class="span-24">
+		<h1>&#9835; Tara Winds Scholarship Foundation</h1>
+		<p>The Tara Winds Scholarship Foundation was established in 1993 to share the love of music by providing funds to further music education. Since its inception, nearly $100,000 has been awarded in scholarships for middle and high school band students to attend summer music camps and colleges.</p>
+		<p>Scholarship funds are available for graduating seniors, middle school, and high school students in Georgia. The Foundation will award funds in the form of college instrumental music scholarships to graduating seniors pursuing higher education in instrumental music. All scholarships will be awarded at the Tara Winds Spring Concert.</p>
+		<p>Contributions to the Tara Winds Scholarship Foundation may be tax deductible. Tax advisors should be consulted for specific details.</p>
+		<p>Click the <a href="/donate">Donate</a> tab above to access Paypal and make a donation to the Scholarship Foundation.  Please specify "Scholarship."</p>
+		<h2>Scholarship Recipients</h2>
+		<p>Congratulations to the recipients of the 2016 Tara Winds Scholarship!</p>
+		<p><a href="#" onclick="return GB_showImageSet(scholarship, 1)">Click here</a> to view a gallery of images from the 2015 Tara Winds Scholarship Concert.</p>
+		
+		<table id="scholarshiprecipients">
+			<tr>
+				<th style="width:30%">College Scholarships<br />(Receiving $2000 Each)</th>
+				<th style="width:30%">High School Scholarships<br />(Up to $500 Each)</th>
+				<th style="width:30%">Middle School Scholarships<br />(Up to $500 Each)</th>				
+			</tr>
+			<tr>
+				<td>Rachel Anders<br />McIntosh High School<br />Barbara Baker, <em>Band Director</em></td>
+				<td>Alex Aull<br />George Walton Academy<br />Christian Smith, <em>Band Director</em></td>
+				<td>Daniel Chapadeau<br />Flat Rock Middle School<br />Matthew Price, <em>Band Director</em></td>
+			</tr>
+			<tr>
+				<td>Sydney Hancock<br />Mill Creek High School<br />Erik Mason, <em>Band Director</em></td>
+				<td>Glen Johnson<br />Kennesaw Mountain High school<br />Michael Huebner and David McGrath, <em>Band Directors</em></td>
+				<td>Aaron Mullins<br />Peachtree Academy<br />Karen Mullins, <em>Band Director</em></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Hank Morris<br />Oconee County High School<br />Mark Provost, <em>Band Director</em></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Noah Scott<br />Heritage High School, Ringgold<br />Blair Callaway, <em>Band Director</em></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Vincent Tapia, IV<br />George Walton Academy<br />Christian Smith, <em>Band Director</em></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Cameron Wilson<br />Davidson Fine Arts<br />Everett Cannady, <em>Band Director</em>
+				<td></td>
+		</table>
+		
+		<hr />
+		<p style="text-align:center">This year, <strong>$8,000</strong> was donated for scholarships. Tara Winds appreciates the generosity of all our donors.</p>
+		<hr />
+		
+		<hr class="space" />
+		
+		<h2>Scholarship Donors</h2>
+		<p>Thank you to the following individuals and organizations who made this year's Tara Winds' Scholarship possible!</p>
+	</div>
+	
+	<table id="scholarshipdonors">
+		<tr style="text-align:center">
+			<th style="width:20%">Virtuoso<br />($1000-5000)</th>
+			<th style="width:20%">Conductor's Circle<br />($500+)</th>
+			<th style="width:20%">Benefactor<br />($250-$499)</th>
+			<th style="width:20%">Patron<br />($100-$249)</th>
+			<th style="width:20%">Guarantor<br />($25-$99)</th>
+		</tr>
+		<tr><!--First row-->
+			<td>American Youth Ensembles</td>
+			<td>Bayne Dobbins Instrument Repair</td>
+			<td>Cathy Asher</td>
+			<td>Tom Anderson &#38; Cathe McKinnon</td>
+			<td>Meyonnie Biggins Clarinet Studio</td>
+		</tr>
+		<tr><!--Second row-->
+			<td></td>
+			<td>Bill Allgood</td>
+			<td>Claudia Bullington</td>
+			<td>Jay Asher</td>
+			<td>Jean Brumbeloe</td>
+		</tr>
+		<tr><!--Third row-->
+			<td></td>
+			<td>Carol Brown</td>
+			<td>Ed &#38; Marcia Davis</td>
+			<td>Daniel Barker</td>
+			<td>Bill Dyson</td>
+		</tr>
+		<tr><!--Fourth row-->
+			<td></td>
+			<td>Encore! Band Camp</td>
+			<td>John Dyson</td>
+			<td>Laurie Corbin</td>
+			<td>Alan Fowler</td>
+		</tr>
+		<tr><!--Fifth row-->
+			<td></td>
+			<td>Ken Stanton Music</td>
+			<td>Jonesboro Animal Hospital</td>
+			<td>Bebe DeRenzis</td>
+			<td>Letha A. Kelly</td>
+		</tr>
+		<tr><!--Sixth row-->
+			<td></td>
+			<td>Matt &#38; Alley McCord</td>
+			<td>Glenn &#38; Carol Moore</td>
+			<td>Jennifer Duerkoop</td>
+			<td>Katie Megli</td>
+		</tr>
+		<tr><!--Seventh row-->
+			<td></td>
+			<td></td>
+			<td>John &#38; Andrea Strauss</td>
+			<td>Dickson &#38; Gail Grimes</td>
+			<td>Nick Smith</td>
+		</tr>
+		<tr><!--Eighth row-->
+			<td></td>
+			<td></td>
+			<td>Larry &#38; Martha Lynn Volman</td>
+			<td>David Kehler</td>
+			<td>Cynthia Johnston Turner</td>
+		</tr>
+		<tr><!--Ninth row-->
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Linda Kirchner</td>
+			<td>Laura Webb</td>
+		</tr>
+		<tr><!--Tenth row-->
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Debra Traficante</td>
+			<td>Candy &#38; Randy White</td>
+		</tr>
+		<tr><!--Eleventh row-->
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>David Wilkes</td>
+			<td></td>
+		</tr>
+		<tr>
+			
+		</tr>
+		<tr>
+
+		</tr>
+	</table>
+	
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+	</div>
+	
+</div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Donate</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<div id="topnav">
+	<p><a href="/members/directory">Member Directory</a> &middot; <a href="/members/notes">Rehearsal Notes</a> &middot; <a href="/members/library">Music Library</a></p>
+</div>
+
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><span id="current">Donate</span></li>
+		<li><a href="/events">Events</a></li>
+		<li><a href="/people">People</a></li>
+		<li><a href="/media">Media</a></li>
+		<li><a href="/resources">Resources</a></li>
+		<li><a href="/scholarship">Scholarship</a></li>
+	</ul>
+	
+	<div class="span-24 last">
+		<h1>&#9835; Donate</h1>
+		<p>The Tara Winds Scholarship Foundation is designed to share the love of music by providing funds to further music education for middle and high school band students. To that end, the Foundation was formed in 1993 to support this effort. As of the spring of 2014, more than $80,000 has been awarded in scholarships for middle and high school students to attend summer music camps.</p>
+		<div class="center">
+			<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+				<input type="hidden" name="cmd" value="_donations">
+				<input type="hidden" name="business" value="86W7EAG59D4K2">
+				<input type="hidden" name="lc" value="US">
+				<input type="hidden" name="item_name" value="Tara Winds">
+				<input type="hidden" name="currency_code" value="USD">
+				<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
+				<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
+		</div>
+		<hr class="space" />
+
+		<h1>&#9835; Corporate Sponsors</h1>
+		<p>We'd like to extend a special thank-you to our corporate sponsors.  You can click the images below to visit their websites.</p>
+	
+		<table>
+			<tr>
+				<td><a href="http://www.allgood.net"><img src="/images/allgood_media_services.jpg" alt="Allgood Media Services" /></a></td>
+				<td><img src="/images/chattahoochee_hills.jpg" alt="Chattahoochee Hills" /></td>
+				<td><img src="/images/encoremusiccamps.png" alt="" /></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.kenstanton.net"><img src="/images/kenstanton.jpg" alt="Ken Stanton Music" /></a></td>
+				<td><a href="http://www.a-y-e.org.net"><img src="/images/americanyouthensembles.jpg" alt="American Youth Ensembles" /></a></td>
+				<td><img src="/images/dougsmithphotography.jpg" alt="" /></td>
+			</tr>
+		</table>
+	
+		<h1>&#9835; Friends</h1>
+		
+		<table>
+			<tr>
+				<td style="text-align:center"><img src="/images/blessedtrinity.jpg" alt="" /><br />Blessed Trinity HS</td>
+				<td style="text-align:center"><img src="/images/starrsmill.jpg" alt="" /><br /><br />Starr's Mill HS</td>
+				<td style="text-align:center"><img src="/images/uniongrove.jpg" alt="" /><br /><br />Union Grove HS</td>
+				<td style="text-align:center"><img src="/images/woodwardacademy.jpg" alt="" /></td>
+			</tr>
+			<tr>
+				<td style="text-align:center"><img src="/images/youthbandsofatlanta.jpg" alt="" /></td>
+				<td style="text-align:center"><img src="/images/kennesawstate.jpg" alt="" /></td>
+		</table>
+		
+	
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+	</div>
+	
+</div>
+</body>
+</html>

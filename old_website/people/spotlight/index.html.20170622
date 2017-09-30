@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Spotlight</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<!--[if lt IE 8]><link rel="stylesheet" href="/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<div id="topnav">
+	<p><a href="/members/directory">Member Directory</a> &middot; <a href="/members/notes">Rehearsal Notes</a> &middot; <a href="/members/library">Music Library</a></p>
+</div>
+
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><a href="/donate">Donate</a></li>
+		<li><a href="/events">Events</a></li>
+		<li><span id="current">People</span></li>
+		<li><a href="/media">Media</a></li>
+		<li><a href="/resources">Resources</a></li>
+		<li><a href="/scholarship">Scholarship</a></li>
+		<li><a href="/contact">Contact Us</a></li>
+	</ul>
+	
+	<p class="notice"><strong>Other links:</strong> <a href="/people/founders">Our Founders</a> &middot; <a href="/people">Conductor &#38; Musicians</a> &middot; <a href="/people/guests">Guests</a> &middot; <a href="/people/committees">Committees</a></p>
+	
+	<h1>&#9835; Spotlight</h1>	
+	
+	<div class="span-5 center first">
+	<img src="/images/spotlight/laurawebb.jpg" alt="Laura Webb" />
+	<p style="font-size:12px;">Laura Webb</p>
+	</div>
+	
+	<div class="span-20 last" style="text-align:justify">
+		<p>Laura Webb is the Band Director at Pepperell Middle School (Floyd County, GA).  Ms. Webb received the Bachelor of Music in Music Education and the Master of Music Education degrees from the University of South Carolina.  She completed the Educational Leadership certification program from the University of West Georgia.  In 2006, she earned the Educational Specialist degree in Education Leadership with an emphasis in Curriculum and Instruction from Nova Southeastern University (FL).</p>
+		<p>Currently in her twenty-fourth year as a music educator, Ms. Webb has taught on the elementary, middle and high school levels.  She has held band director positions in the Henry, Barrow, Cobb, Fayette, and Clayton County school systems.  Ms. Webb has served the Georgia Music Educators Association on the state and district level.  She served as the Vice-President for Performance Evaluations for GMEA from 2011-2013.  She was a Member-At-Large for the GMEA Board for four years as well as Treasurer for District 6.  She served as the organizer for the Middle School All State Band for five years. She has organized Large Group Performance Evaluation, Honor Band, and All State auditions on the district level on numerous occasions.  She is active as an adjudicator and clinician throughout the state of Georgia.  Ms. Webb also served as a Content Review Panel Member for the Georgia Professional Standards Commission evaluating teacher preparation programs.  </p>
+		<p>In 2008, Ms. Webb received the GMEA Volunteer of the Year award.  Ms. Webb currently performs with Tara Winds and is a former member of the Cobb Wind Symphony community band.  She has been a staff member for Encore Music Camps and the Fayette Area Band Camp.  Ms. Webb's professional affiliations include GMEA, NAfME: The National Association for Music Education, The National Band Association, The National Flute Association, Professional Association of Georgia Educators, Delta Omicron International Music Fraternity and Tau Beta Sigma Honorary Band Sorority.</p>
+	</div>
+	
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+	</div>
+	
+</div>
+</body>
+</html>

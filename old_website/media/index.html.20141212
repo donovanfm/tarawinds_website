@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Media</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<link href="/greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/audio-player-uncompressed.js"></script>
+<script type="text/javascript">  
+    AudioPlayer.setup("http://tarawinds.org/swf/player.swf", {  
+        width: 290,  
+        initialvolume: 100,  
+        transparentpagebg: "no",  
+        left: "000000",  
+        lefticon: "DDDDDD"  
+    });  
+</script>
+<script type="text/javascript">
+    var GB_ROOT_DIR = "/greybox/";
+</script>
+<script type="text/javascript" src="/greybox/AJS.js"></script>
+<script type="text/javascript" src="/greybox/gb_scripts.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<script type="text/javascript">
+var usm022011 = [{'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_1.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_2.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_3.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_4.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_5.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_6.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_7.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_8.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_9.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_10.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_11.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_12.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_13.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_14.jpg'}, {'caption': 'University of Southern Mississippi (February 2011)', 'url': '/images/usm022011/usm022011_15.jpg'}];
+var cbdna2012 = [{'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_1.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_2.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_3.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_4.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_5.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_6.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_7.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_8.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_9.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_10.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_11.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_12.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_13.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_14.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_15.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_16.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_17.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_18.jpg'}, {'caption': '2012 CBDNA Conference (February 2012)', 'url': '/images/cbdna2012/cbdna2012_19.jpg'}];
+var mem2012 = [{'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_1.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_2.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_3.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_4.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_5.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_6.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_7.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_8.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_9.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_10.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_11.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_12.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_13.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_14.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_15.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_16.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_17.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_18.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_19.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_20.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_21.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_22.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_23.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_24.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_25.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_26.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_27.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_28.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_29.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_30.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_31.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_32.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_33.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_34.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_35.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_36.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_37.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_38.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_39.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_40.jpg'}, {'caption': 'Memorial Day Celebration (May 2012)', 'url': '/images/mem2012/mem2012_41.jpg'}];
+var gmea2014 = [{'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_1.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_2.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_3.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_4.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_5.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_6.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_7.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_8.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_9.jpg'}, {'caption': 'Georgia Music Educators Association (January 2014)', 'url': '/images/gmea2014/gmea2014_10.jpg'}];
+var schol2014 = [{'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_1.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_2.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_3.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_4.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_5.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_6.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_7.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_8.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_9.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_10.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_11.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_12.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_13.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_14.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_15.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_16.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_17.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_18.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_19.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_20.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_21.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_22.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_23.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_24.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_25.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_26.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_27.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_28.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_29.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_30.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_31.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_32.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_33.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_34.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_35.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_36.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_37.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_38.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_39.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_40.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_41.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_42.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_43.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_44.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_45.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_46.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_47.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_48.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_49.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_50.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_51.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_52.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_53.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_54.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_55.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_56.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_57.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_58.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_59.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_60.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_61.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_62.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_63.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_64.jpg'}, {'caption': 'Tara Winds Scholarship Concert (May 2014)', 'url': '/images/schol2014/schol2014_65.jpg'}];
+</script>
+
+<div id="topnav">
+	<p><a href="/members/directory">Member Directory</a> &middot; <a href="/members/notes">Rehearsal Notes</a> &middot; <a href="/members/library">Music Library</a></p>
+</div>
+
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><a href="/donate">Donate</a></li>
+		<li><a href="/events">Events</a></li>
+		<li><a href="/people">People</a></li>
+		<li><span id="current">Media</span></li>
+		<li><a href="/resources">Resources</a></li>
+		<li><a href="/scholarship">Scholarship</a></li>
+	</ul>
+	
+	<h1>&#9835; Audio</h1>
+	<p>Please take a moment and listen to some of our audio recordings.</p>
+	
+	<div class="span-11 first">
+		
+		<h2>"Capriccio Espagnol Op. 34"</h2>
+		<p><em>by Nikolai Rimsky-Korsakov, trans. Hindsley/Winterbottom</em></p>
+		<p>Performed at 2012 CBDNA/NBA Convention, Kennesaw, GA</p>
+		<p id="audioplayer_1">"Capriccio Espagnol Op. 34"</p>  
+        <script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_1", {soundFile: "/mp3/capriccio_espagnole.mp3",
+			titles: "Capriccio Espagnol Op. 34",});  
+        </script>
+		<h2>"Symphony from Ivy Green, II. The Well"</h2>
+		<p><em>by Mark Camphouse</em></p>
+		<p>Performed at 2012 CBDNA/NBA Convention, Kennesaw, GA; Amber Greer, soprano soloist</p>
+		<p id="audioplayer_2">"Capriccio Espagnol Op. 34"</p>  
+        <script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_2", {soundFile: "/mp3/symphony_from_ivy_green.mp3",
+			titles: "Symphony from Ivy Green, II. The Well",});  
+        </script>
+		<h2>"Canzona"</h2>
+		<p><em>by Peter Mennin</em></p>
+		<p>Performed at 2012 CBDNA/NBA Convention, Kennesaw, GA</p>
+		<p id="audioplayer_3">"Canzona"</p>  
+        <script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_3", {soundFile: "/mp3/canzona.mp3",
+			titles: "Canzona",});  
+        </script>
+		<h2>"A Basque Lullaby"</h2>
+		<p><em> by Dan Forrest</em></p>
+		<p>Performed at 2012 CBDNA/NBA Convention, Kennesaw, GA</p>
+		<p id="audioplayer_4">"A Basque Lullaby"</p>  
+        <script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_4", {soundFile: "/mp3/a_basque_lullaby.mp3",
+			titles: "A Basque Lullaby",});  
+        </script>
+	</div>
+	
+	<div class="span-11 prepend-3 last">	
+	<h2>"Four Dances from West Side Story"</h2>
+		<p><em> by Leonard Bernstein, arr. Ian Polster</em></p>
+		<p>Performed at 2012 CBDNA/NBA Convention, Kennesaw, GA</p>
+		<p id="audioplayer_5">"Four Dances from West Side Story"</p>  
+        <script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_5", {soundFile: "/mp3/four_dances_west_side_story.mp3",
+			titles: "Four Dances from West Side Story",});  
+        </script>
+	<h2>"Lads of Wamphray"</h2>
+		<p><em>by Percy A. Grainger</em></p>
+		<p>Performed February 2011 at the University of Southern Mississippi Hattiesburg, MS</p>
+		<p id="audioplayer_6">"Lads of Wamphray"</p>
+		<script type="text/javascript">  
+        	AudioPlayer.embed("audioplayer_6", {soundFile: "/mp3/lads_of_wamphray.mp3",
+			titles: "Lads of Wamphray",});  
+        </script>
+		<h2>"Three Dances of Enchantment"</h2>
+		<p><em>by Luigi Zaninelli</em></p>
+		<p>Performed February 2011 at the University of Southern Mississippi Hattiesburg, MS</p>
+		<p id="audioplayer_7">"Three Dances of Enchantment"</p>  
+		<script type="text/javascript">  
+			AudioPlayer.embed("audioplayer_7", {  
+    		soundFile: "/mp3/three_dances_of_enchantment_1.mp3,/mp3/three_dances_of_enchantment_2.mp3,/mp3/three_dances_of_enchantment_3.mp3",  
+    			titles: "The Via Veneto, She Walks Through the Fair, The Feast of Saint Rocco",});  
+		</script>
+	</div>
+	
+	<hr class="space" />
+	
+	<!-- <h1>&#9835; Video</h1>
+	<p>Although nothing beats seeing a live wind ensemble performance, we hope you enjoy some of these video recordings.</p> -->
+	
+<!-- 	<div class="center span-11 prepend-1 last">
+		
+	</div> -->
+	
+	<div class="span-24">
+		<h1>&#9835; Photos</h1>
+		<a class="gallerythumb" href="/images/usm022011/usm022011_4.jpg" onclick="return GB_showImageSet(usm022011, 1)"><img src="/images/usm022011/usm022011_cover.jpg" alt="Univerity of Southern Mississippi (February 2011)" /></a>
+		<a class="gallerythumb" href="/images/cbdna2012/cbdna2012_7.jpg" onclick="return GB_showImageSet(cbdna2012, 1)"><img src="/images/cbdna2012/cbdna2012_cover.jpg" alt="Univerity of Southern Mississippi (February 2011)" /></a>
+		<a class="gallerythumb" href="/images/mem2012/mem2012_1.jpg" onclick="return GB_showImageSet(mem2012, 1)"><img src="/images/mem2012/mem2012_cover.jpg" alt="Memorial Day Celebration (May 2012)" /></a>
+		<br />
+		<a class="gallerythumb" href="/images/gmea2014/gmea2014_1.jpg" onclick="return GB_showImageSet(gmea2014, 1)"><img src="/images/gmea2014/gmea2014_cover.jpg" alt="Georgia Music Educators Association (January 2014)" /></a>
+		<a class="gallerythumb last" href="/images/schol2014/schol2014_1.jpg" onclick="return GB_showImageSet(schol2014, 1)"><img src="/images/schol2014/schol2014_cover.jpg" alt="Tara Winds Scholarship Concert (2014)" /></a>
+	</div>
+		
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+		
+	</div>
+</div>
+</body>
+</html>

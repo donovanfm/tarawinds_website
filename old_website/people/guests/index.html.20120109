@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Guests</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<!--[if lt IE 8]><link rel="stylesheet" href="/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><a href="/donate">Donate</a></li>
+		<li><a href="/events">Events</a></li>
+		<li><span id="current">People</span></li>
+		<li><a href="/media">Media</a></li>
+		<li><a href="/resources">Resources</a></li>
+		<li><a href="/scholarship">Scholarship</a></li>
+	</ul>
+	
+	<p class="notice"><strong>Other links:</strong> <a href="/people/founders">Our Founders</a> &middot; <a href="/people/guests">Guests</a> &middot; <a href="/people/committees">Committees</a></p>
+	
+	<h1>&#9835; Guests</h1>
+	
+	<div class="span-5 center first">
+	<img src="/images/lindacotter.png" alt="Linda Cotter" />
+	<p style="font-size:10px;">Linda Cotter</p>
+	</div>
+	
+	<div class="span-20 last">
+		<p>Linda Cotter is a flutist and piccoloist in the Atlanta area. In the fall of 2008 she began her study as a Doctoral Candidate at Louisiana State University, and was the Substitute Flute Professor for the semester. She has played for many world-reknowned flutists such as Jean-Pierre Rampal, Brad Garner, Carol Wincenc, Jill Felber, Renee Siebert, Gary Schocker, and many more. Mrs. Cotter was recently a finalist in the United States Coast Guard Band audition and the President's Own Marine Band audition.</p>
+		<p>Mrs. Cotter is currently the 3rd Flute/Piccolo for the Baton Rouge Symphony, and while in Louisiana was the Principal Flutist with the Louisiana Sinfonietta. She was principal flutist of the LSU Wind Ensemble during her two years of coursework for the DMA as well as during the two years of her Master's Degree. She also played with the LSU Symphony Orchestra for two years while attaining her Master's Degree.</p>
+		<p>Before attending Louisiana State University, Mrs. Cotter received her Bachelor's Degree in Flute Performance from the University of South Carolina. While at the University of South Carolina, Mrs. Cotter was principal flutist for both the University Symphony Orchestra and the University Symphonic Band. She was a substitute flutist for the South Carolina Philharmonic Orchestra as well as the Augusta Symphony Orchestra. Mrs. Cotter was the state winner for the South Carolina MTNA solo competition and received second place at the regional level.</p>
+		<p>Mrs. Cotter and her husband, Bobby, make their home in McDonough, Georgia.</p>
+	</div>
+
+	<hr class="space" />
+	
+	<div class="span-5 center first">
+	<img src="/images/ambergreer.jpg" alt="Amber Greer" />
+	<p style="font-size:10px;">Amber Greer</p>
+	</div>
+	
+	<div class="span-20 last">
+		<p>Amber Greer is a graduate of Georgia State University, with a B. S. in Music with a concentration in vocal performance. While studying at GSU, she performed in The Tender Land by Aaron Copland and The Crucible by Robert Ward. She was the state winner of the National Association of Teachers of Singing Competitions in 2001, and was a semi-finalist in the Metropolitan Opera Competition in 2002. In 2006 and 2007, Mrs. Greer played the role of Mother in the Southern Crescent Chorale's presentation of Amahl and the Night Visitors by Gian Carlo Menotti. She released her first independent solo recording in 2005, entitled Part of You. From 2001 to 2010, Mrs. Greer has served as a worship leader, choral director, and soloist in various churches in the Atlanta and Charlotte areas. Mrs. Greer has been a soloist with Tara Winds since 1997, and a member of the Atlanta Symphony Orchestra Chorus and Chamber Group from 2009-2010.  She currently holds a staff singing position at Glenn Memorial United Methodist Church in Atlanta.</p>
+	</div>
+
+	<hr class="space" />
+	
+	<div class="span-5 center first">
+	<img src="/images/mattmccord.png" alt="Matt McCord" />
+	<p style="font-size:10px;">Matthew McCord</p>
+	</div>
+	
+	<div class="span-20 last">
+		<p>Matthew McCord studied voice at the University of South Carolina, graduating with a Bachelors in Music in 1995.  He has performed across the Southern Crescent of Atlanta over the last fifteen years and has been a soloist with the Tara Winds since 2002.  He teaches music and is the founder and Chairman of the Matthew Arts Foundation, providing assistance to young people who desire to study music.  A 2000 graduate of the College of Law at Georgia State University, Mr. McCord is also an attorney with a law office in McDonough.</p>
+	</div>
+	
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+	</div>
+	
+</div>
+</body>
+</html>

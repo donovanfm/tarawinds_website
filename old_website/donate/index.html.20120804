@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Donate</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><span id="current">Donate</span></li>
+		<li><a href="/events">Events</a></li>
+		<li><a href="/people">People</a></li>
+		<li><a href="/media">Media</a></li>
+		<li><a href="/resources">Resources</a></li>
+		<li><a href="/scholarship">Scholarship</a></li>
+	</ul>
+	
+	<div class="span-24 last">
+		<h1>&#9835; Donate</h1>
+		<p>Tara Winds is a non-profit 501(c)3 corporation and is supported by member dues, donations from individual and corporate sponsors and grants. In our 20th year, Tara Winds Incorporated has initiated an Annual Fund program to raise funds to supplement concert expenses, operating expenses, and community development. If you would like to support Tara Winds by making a donation, please contact our Secretary/Treasurer <a href="mailto:lconti04@comcast.net?subject=Tara Winds Donation">Lynn Conti</a>. We graciously thank our donors who have donated time, talents and resources in order for Tara Winds and the Tara Winds Scholarship Foundation to perform and educate for another 20 years.</p>
+		<div class="center">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="86W7EAG59D4K2">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="Tara Winds">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+		</div>
+		<hr class="space" />
+		<p>Tara Winds established the Tara Winds' Scholarship Foundation to help promote music education for students. The Tara Winds Scholarship Foundation and Tara Winds Incorporated both operate as non-profit organizations with a focus on sharing the love of music by providing funds to further music education for middle and high school band students and to foster the arts through community talent and education. Since its inception, the Foundation has awarded more than $53,000 in scholarships for middle and high school band members to attend summer music camps and colleges.</p>
+
+		<h1>&#9835; Corporate Sponsors</h1>
+		<p>We'd like to extend a special thank-you to our corporate sponsors.  You can click the images below to visit their websites.</p>
+		
+	<div class="span-12 center first">
+		<a href="http://www.taylorgas.net/" style="border:0"><img src="/images/taylorgas.jpg" alt="Taylor Gas"  /></a>
+	</div>
+	
+	<div class="span-12 center last">
+		<a href="http://doubletree1.hilton.com" style="border:0"><img src="/images/doubletree.jpg" alt="Doubletree Hotel" /></a>
+	</div>
+	
+	<hr class="space" />
+	
+	<div class="span-12 center first">
+		<a href="http://www.kenstanton.net" style="border:0"><img src="/images/kenstanton.jpg" alt="Ken Stanton Music" /></a>
+	</div>
+	
+	<div class="span-12 center last">
+		<a href="http://www.travelgallery.com" style="border:0"><img src="/images/travelgallery.jpg" alt="Travel Gallery" /></a>
+	</div>
+	
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+	</div>
+	
+</div>
+</body>
+</html>

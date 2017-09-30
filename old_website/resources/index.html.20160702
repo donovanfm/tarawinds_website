@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tara Winds: Resources</title>
+<link rel="stylesheet" type="text/css" href="/blueprint/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/blueprint/print.css" media="print" />
+<!--[if lt IE 8]><link rel="stylesheet" href="/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23226205-1']);
+  _gaq.push(['_setDomainName', '.tarawinds.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<div id="topnav">
+	<p><a href="/members/directory">Member Directory</a> &middot; <a href="/members/notes">Rehearsal Notes</a> &middot; <a href="/members/library">Music Library</a></p>
+</div>
+
+<div class="container">
+
+	<div id="logo"><a href="/" style="border:0"><img src="/images/logo.gif" alt="Tara Winds" style="border:0" /></a></div>
+	
+	<ul id="navlist">
+		<li><a href="/">Home</a></li>
+		<li><a href="/donate">Donate</a></li>
+		<li><a href="/events">Events</a></li>
+		<li><a href="/people">People</a></li>
+		<li><a href="/media">Media</a></li>
+		<li><span id="current">Resources</span></li>
+		<li><a href="/scholarship">Scholarship</a></li>
+		<li><a href="/contact">Contact Us</a></li>
+	</ul>
+	
+	<div class="span-24">
+		<h1>&#9835; Resources</h1>
+		<p>This page will serve as a repository of documents, as well as links, that members and the community will find useful and interesting.</p>
+	</div>
+		
+	<div class="span-12 first">
+		<h2>Links</h2>
+		<p><a href="http://www.asbda.com/">American School Band Directors Association</a></p>
+		<p><a href="http://www.artsclayton.org/">Arts Clayton</a></p>
+		<p><a href="http://www.bandmusic.org/">BandMusic USA</a></p>
+		<p><a href="http://www.cbdna.org/">College Band Directors National Association</a></p>
+		<p><a href="http://www.gmea.org/">Georgia Music Educators Association</a></p>
+		<p><a href="http://www.menc.org/">National Association for Music Education</a></p>
+		<p><a href="http://www.nationalbandassoc.org/">National Band Association</a></p>
+		<p><a href="http://www.acbands.org/">The Association of Concert Bands</a></p>
+		<p><a href="http://www.midwestclinic.org/">The Midwest Clinic - An International Band and Orchestra Conference</a></p>
+	</div>
+	
+	<div class="span-12 last">
+		<h2>Other Bands</h2>
+		<p><a href="http://www.tkwo.jp/english/index.html">Toyko Kosei Wind Orchestra</a></p>
+		<p><a href="http://www.worldmilitarybands.com/">World Military Bands</a></p>
+	</div>
+	
+	<hr class="space" />
+	
+	<div id="footer">
+		<p>This site and its contents Copyright &copy; 2011 <a href="/">Tara Winds</a></p>
+	</div>
+	
+</div>
+</body>
+</html>

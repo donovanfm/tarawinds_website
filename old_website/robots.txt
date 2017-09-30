@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /blueprint
+Disallow: /docs
+Disallow: /fonts
+Disallow: /greybox
+Disallow: /images
+Disallow: /js
+Disallow: /mp3
+Disallow: /swf
