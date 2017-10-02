@@ -8333,6 +8333,13 @@ body.archive-portfolio, body.archive-post, body.archive-product, body.single-pos
     align-items: center;
     justify-content: center;
 }
+.photo-albums {
+    display: flex;
+    flex-wrap: wrap;
+}
+.affa-gallery .photo-albums figure img {
+    height: 340px;
+}
 /* ========================= Media Queries ========================= */
 
 @media (min-width: 1440px) and (max-width: 1679px) {
