@@ -129,13 +129,13 @@ a, a:visited {
 	color:#00d27f;
 	-webkit-transition:color .2s ease, background .2s ease, padding .2s ease, border .2s ease, outline .2s ease, opacity .2s ease-in-out;
 	transition:color .2s ease, background .2s ease, padding .2s ease, border .2s ease, outline .2s ease, opacity .2s ease-in-out;
+	text-decoration: underline;
 }
 .text-white a, .text-white a:visited { color:#FFF; }
 .link-dark a, .link-dark a:visited, a.link-dark, a.link-dark:visited { color:#777; }
 .link-dark2 a, .link-dark2 a:visited, a.link-dark2, a.link-dark2:visited { color:#303030; }
 a:hover {
 	color:#303030;
-	text-decoration:none;
 }
 .text-white a:hover {
 	color:#FFF;
@@ -1984,6 +1984,7 @@ body.nav-mobile-on.nav-mobile-open #navigation.affix .navbar-logo, body.nav-shop
 			padding:0px;
 			-webkit-transition:color .2s ease;
 			transition:color .2s ease;
+			text-decoration: none;
 		}
 		#navigation .nav > li > a:hover, #navigation .nav > li.current-menu-item > a { color:#00d27f; }
 		#header.header-transparent #navigation .nav > li > a { color:#FFF; }
@@ -7567,6 +7568,10 @@ body.archive-portfolio, body.archive-post, body.archive-product, body.single-pos
 
 
 /* ========================= Widgets ========================= */
+
+#more-links.widget a {
+	text-decoration: none;
+}
 
 .widget_categories ul {
 	padding:0px;
