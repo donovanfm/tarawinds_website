@@ -1,0 +1,7 @@
+# Begin password protection #
+AuthName "Members Only"
+Require valid-user
+AuthUserFile "/home/users/web/b2107/apo.tarawi/members/.htpasswd"
+AuthType basic
+# End password protection #
+
