@@ -1,0 +1,21 @@
+.next-card {
+  border-radius: 20px;
+  padding: 15px;
+  border: solid;
+  min-height: 200px;
+  vertical-align: middle;
+}
+
+.next-card.rehearsal {
+  background-color: antiquewhite;
+  border-color: chocolate;
+}
+
+.next-card.concert {
+  background-color: lightblue;
+  border-color: darkslategray;
+}
+
+.next-card-content {
+  vertical-align: middle;
+}
