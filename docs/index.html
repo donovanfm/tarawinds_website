@@ -2,1070 +2,556 @@
 <!--[if lt IE 7]><html class="ie ie6" lang="en"><![endif]-->
 <!--[if IE 7]><html class="ie ie7" lang="en"><![endif]-->
 <!--[if IE 8]><html class="ie ie8" lang="en"><![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en"><![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
 
 <head>
-    
+
     <!-- Your Basic Site Informations -->
-    <title>Affapress Documentation</title>
+    <title>Tara Winds</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Affapress documentation contains a complete tutorial that will make you easier to customize the look of the template as you want.">
-    <meta name="keywords" content="Documentation, Tutorial, Customize Template">
-    <meta name="author" content="Affapress">
-    <meta name="robots" content="noindex, nofollow">
-    
+    <meta name="description" content="Tara Winds is an all-adult symphonic band celebrating over 30 years of excellence in musical performance.">
+    <meta name="keywords" content="">
+
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Roboto:100,300,300i,400,400i,500,700,900" rel="stylesheet">
+
     <!-- Stylesheets -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/jquery.scrollbar.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/slick-theme.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/shCoreDefault.css">
-    
+    <link rel="stylesheet" href="css/landing/minimalist.css">
+
+    <!-- Custom Colors -->
+    <link rel="stylesheet" href="css/colors/black/color.css">
+    <!--    <link rel="stylesheet" href="css/colors/blue/color.css">-->
+    <!--    <link rel="stylesheet" href="css/colors/orange/color.css">-->
+    <!--    <link rel="stylesheet" href="css/colors/pink/color.css">-->
+    <!--    <link rel="stylesheet" href="css/colors/purple/color.css">-->
+    <!--    <link rel="stylesheet" href="css/colors/yellow/color.css">-->
+
     <!--[if lt IE 9]>
     	<script src="js/html5.js"></script>
         <script src="js/respond.min.js"></script>
 	<![endif]-->
-    
+
     <!--[if lt IE 8]>
     	<link rel="stylesheet" href="css/ie-older.css">
     <![endif]-->
-    
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="images/favicon.ico">
-	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-    
-</head>
-<body data-spy="scroll" data-target="#navigation">
-    
-    <header id="top">
-    	<div class="container">
-        	<h1>Affapress Documentation</h1>
-            <p>This documentation contains a complete tutorial that will make you easier to customize the look of the template as you want.</p>  
-		</div>
-	</header>
-    
-    <div class="container">
-    	<div class="row">
-            <div class="col-sm-3" id="navigation">
-                
-                <ul class="nav nav-list">
-                    <li><a href="#installation"><i class="fa fa-chevron-right"></i> Installation</a></li>
-                    <li><a href="#html"><i class="fa fa-chevron-right"></i> HTML Structure</a></li>
-                    <li><a href="#css"><i class="fa fa-chevron-right"></i> CSS Structure</a></li>
-                    <li><a href="#scripts"><i class="fa fa-chevron-right"></i> Scripts</a></li>
-                    <li><a href="#php"><i class="fa fa-chevron-right"></i> PHP Integration</a></li>
-                    <li><a href="#image"><i class="fa fa-chevron-right"></i> Image Files</a></li>
-                    <li><a href="#credits"><i class="fa fa-chevron-right"></i> Credits</a></li>
-                </ul>
-                
-            </div>
-            <div class="col-sm-9" id="content">
-                
-                <h4>Thank you very much for purchasing from Affapress.</h4>
-                <p>If you have any issues or questions that this documentation does not cover, you can send us a message to <a href="mailto:support@affapress.com">support@affapress.com</a>.<br>You can get more updates documentation <a href="http://affapress.com/templates/unicom_responsive_multi_purpose_template/docs/" target="_blank">here!</a></p>
-                
-                <br>
-                <h3 id="installation">Template Installation</h3>
-                <hr>
-                <p>You can view this template in any web browser from your desktop computer. Because the files are written in HTML, you do not need an internet connection in order to display or edit the template from your text editor.</p>
-                <p>All of the HTML files are given a descriptive name to make it easier to distingish what each file will display.</p>
-                <h4 style="margin-top:20px;">Upload to The Server</h4>
-                <ol>
-                    <li>It's important to understand that you must either have your own server space or use someone elses. The server space can be purchased at many different places around the internet. You need somewhere to put the files that you purchased so others can find them online.</li>
-                    <li>Select <strong>/html/</strong> folder, then choose layout which you want, and there will have several files with the extension labeled <strong>.html</strong>. This is where all your content will. In addition to <strong>.html</strong> you should see a file labeled <strong>.css</strong>. The <strong>.css</strong> files are going to be the files that will tell the <strong>.html</strong> how to to be styled. CSS is simply a way to take text, images, and other elements and change the look of them. It's very important to keep the <strong>.css</strong> file with the HTML or the HTML will not look how the design is meant to look. Along with the HTML and CSS files, you will also have five additional folders to upload: <strong>css, fonts, images, js and mailchimp</strong>.</li>
-                    <li>Start your FTP client (I persoanlly use Filezilla which is free) and login. Login to your server. You will need your server name (often times this will be your domain name), username, and password that you setup with the hosting company.</li>
-                    <li>Locate the domain folder you wish to upload your template files to on your server. You are going to want to click and drag every file that you have labeled <strong>.html, .css, .js</strong> into your FTP client.</li>
-                    <li>Once the files are done uploading, you can try access your website via browser.</li>
-                </ol>
-                
-                <br>
-                <h4>Change The Template Color</h4>
-                <p>It's easy to change color of this template, you just need to change the a line code below:</p>
-                <ol>
-                	<li>Open the <strong>.html</strong> file (example <strong>index.html</strong>).</li>
-                    <li>Find this line of code in <strong>&lt;head&gt;</strong> section:
-                    <pre class="brush: js; ruler: true; first-line: 1;">
-					&lt;!-- Custom Colors --&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/blue/color.css"&gt;--&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/orange/color.css"&gt;--&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/pink/color.css"&gt;--&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/purple/color.css"&gt;--&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/yellow/color.css"&gt;--&gt;
-                    </pre></li>
-                    <li>Choose your favorite color with remove one of the comment tag like this:
-                    <pre class="brush: js; ruler: true; first-line: 1; highlight:[3];">
-                    &lt;!-- Custom Colors --&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/blue/color.css"&gt;--&gt;
-					&lt;link rel="stylesheet" href="css/colors/orange/color.css"&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/pink/color.css"&gt;--&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/purple/color.css"&gt;--&gt;
-					&lt;!--&lt;link rel="stylesheet" href="css/colors/yellow/color.css"&gt;--&gt;
-                    </pre></li>
-                    <li>Save and see the result!</li>
-                </ol>
-                
-                <br>
-                <h3 id="html">HTML Structure</h3>
-                <hr>
-                <p>This site template has a fixed layout with a variation of column layouts depending on the page. This template uses the <strong>1170 grid system (12 columns)</strong> which will help streamline any customization you wish to make. If you're unfamiliar with the 1170 grid system, be sure to read about it <a href="http://getbootstrap.com/examples/grid/" target="_blank">here</a>.</p>
-                <p>The main structure of this site is wrapped in a <strong>'container'</strong> div. Inside of that div you will find each major section of the site given an appropritae grid size all equalling 12 columns in length. For example, the <strong>'#main'</strong> element has a class of <strong>'col-sm-8'</strong> and the <strong>'#side'</strong> element has a class of <strong>'col-sm-4'</strong>. The total columns equals <strong>12 columns</strong>.</p>
-                <pre class="brush: js; ruler: true; first-line: 1;">
-                &lt;div class="container"&gt;
-                    &lt;div class="row"&gt;
-                        &lt;div id="main" class="col-sm-8"&gt;&lt;/div&gt;
-                        &lt;div id="side" class="col-sm-4"&gt;&lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                </pre>
-                
-                <p>If you would like to edit the color, font, or style of any elements in one of these columns, you would do the following in <strong>/css/style.css</strong> :</p>
-                <pre class="brush: js; ruler: true; first-line: 1;">
-                .navbar { text-align:center; }
-                </pre>
-                
-                <p>If you find that your new style is not overriding, it is most likely because of a specificity problem. Scroll down in your CSS file and make sure that there isn't a similar style that has more weight.</p>
-                <pre class="brush: js; ruler: true; first-line: 1;">
-                #header .navbar { text-align:center; }
-                </pre>
-                <p>So, to ensure that your new styles are applied, make sure that they carry enough <strong>'weight'</strong> and that there isn't a style lower in the CSS file that is being applied after yours.</p>
-                
-				<br>
-                <h3>Web Elements</h3>
-				<p>You can see all the HTML element examples for this template and you can see the source code to learn how to make it from this link:</p>
-				
-				<br>
-                <h4>Headers</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-                &lt;!-- #header --&gt;
-				&lt;header id="header"&gt;
-					
-					&lt;!-- #nav-mobile-top --&gt;
-					&lt;div id="nav-mobile-top"&gt;
-						
-						&lt;!-- .container --&gt;
-						&lt;div class="container-fluid"&gt;
-							&lt;div class="navmenu"&gt;
-								
-								....
-								
-							&lt;/div&gt;
-						&lt;/div&gt;
-						&lt;!-- .container end --&gt;
-						
-					&lt;/div&gt;
-					&lt;!-- #nav-mobile-top end --&gt;
-					
-					&lt;!-- #navigation --&gt;
-					&lt;nav id="navigation"&gt;
-						
-						&lt;!-- .navtop --&gt;
-						&lt;div class="navtop"&gt;
-							
-							&lt;!-- .container --&gt;
-							&lt;div class="container"&gt;
-								
-								....
-								
-							&lt;/div&gt;
-							&lt;!-- .container end --&gt;
-							
-						&lt;/div&gt;
-						&lt;!-- .navtop end --&gt;
-						
-						&lt;!-- .navbar --&gt;
-						&lt;div class="navbar"&gt;
-							
-							&lt;!-- .container --&gt;
-							&lt;div class="container"&gt;
-								&lt;div class="navbar-wrap"&gt;
-									
-									....
-									
-								&lt;/div&gt;
-							&lt;/div&gt;
-							&lt;!-- .container end --&gt;
-							
-						&lt;/div&gt;
-						&lt;!-- .navbar end --&gt;
-						
-					&lt;/nav&gt;
-					&lt;!-- #navigation end --&gt;
-					
-					....
-					
-				&lt;/header&gt;
-				&lt;!-- #header end --&gt;
-                </pre>
-				<p>For more details and the results output you can click links below:</p>
-				<p>
-					<a href="../html/header-1.html" target="_blank">header-1.html</a>
-					<br><a href="../html/header-2.html" target="_blank">header-2.html</a>
-					<br><a href="../html/header-3.html" target="_blank">header-3.html</a>
-					<br><a href="../html/header-4.html" target="_blank">header-4.html</a>
-					<br><a href="../html/header-5.html" target="_blank">header-5.html</a>
-					<br><a href="../html/header-6.html" target="_blank">header-6.html</a>
-					<br><a href="../html/header-7.html" target="_blank">header-7.html</a>
-				</p>
-				
-				<br>
-                <h4>Footer</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;!-- #bottom --&gt;
-				&lt;div id="bottom"&gt;
-					
-					&lt;!-- .container --&gt;
-					&lt;div class="container"&gt;
-						
-						&lt;!-- .footer-widgets --&gt;
-						&lt;div class="footer-widgets"&gt;
-							
-							....
-							
-						&lt;/div&gt;
-						&lt;!-- .footer-widgets end --&gt;
-						
-					&lt;/div&gt;
-					&lt;!-- .container end --&gt;
-					
-				&lt;/div&gt;
-				&lt;!-- #bottom end --&gt;
-				
-				&lt;!-- #footer --&gt;
-				&lt;footer id="footer"&gt;
-					
-					&lt;!-- .container --&gt;
-					&lt;div class="container"&gt;
-						
-						....
-						
-					&lt;/div&gt;
-					&lt;!-- .container end --&gt;
-					
-				&lt;/footer&gt;
-				&lt;!-- #footer end --&gt;
-                </pre>
-				<p>For more details and the results output you can click links below:</p>
-				<p>
-					<a href="../html/footer-1.html" target="_blank">footer-1.html</a>
-					<br><a href="../html/footer-2.html" target="_blank">footer-2.html</a>
-					<br><a href="../html/footer-3.html" target="_blank">footer-3.html</a>
-					<br><a href="../html/footer-4.html" target="_blank">footer-4.html</a>
-					<br><a href="../html/footer-5.html" target="_blank">footer-5.html</a>
-					<br><a href="../html/footer-6.html" target="_blank">footer-6.html</a>
-				</p>
-				
-				<br>
-                <h4>Accordion</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="panel-group affa-panel-group" id="accordion1" role="tablist" aria-multiselectable="true"&gt;
-					
-					&lt;div class="panel panel-default"&gt;
-						&lt;div class="panel-heading" role="tab" id="heading11"&gt;
-							&lt;h4 class="panel-title"&gt;
-								....
-							&lt;/h4&gt;
-						&lt;/div&gt;
-						&lt;div id="collapse11" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading11"&gt;
-							&lt;div class="panel-body"&gt;
-								....
-							&lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-					
-					....
-					
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-accordion.html" target="_blank">element-accordion.html</a></p>
-				
-				<br>
-                <h4>Alert Messages</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="alert alert-info" role="alert"&gt;
-					&lt;h4&gt;....&lt;/h4&gt;
-					&lt;p&gt;....&lt;/p&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-alert-messages.html" target="_blank">element-alert-messages.html</a></p>
-				
-				<br>
-                <h4>Boxes</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="panel panel-default"&gt;
-					&lt;div class="panel-heading"&gt;
-						&lt;h3 class="panel-title"&gt;....&lt;/h3&gt;
-					&lt;/div&gt;
-					&lt;div class="panel-body"&gt;....&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-boxes.html" target="_blank">element-boxes.html</a></p>
-				
-				<br>
-                <h4>Buttons</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;input type="button" name="button" class="btn-rect" value="Rectangle"&gt;
-				&lt;input type="button" name="button" value="Rounded"&gt;
-				&lt;input type="button" name="button" class="btn-round" value="Round"&gt;
-				&lt;input type="button" name="button" class="btn-border btn-rect" value="Rectangle"&gt;
-				&lt;input type="button" name="button" class="btn-border" value="Rounded"&gt;
-				&lt;input type="button" name="button" class="btn-border btn-round" value="Round"&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-buttons.html" target="_blank">element-buttons.html</a></p>
-				
-				<br>
-                <h4>Callout</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-callout callout-info"&gt;
-                	&lt;h4&gt;....&lt;/h4&gt;
-                    &lt;p&gt;....&lt;/p&gt;
-                &lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-callout.html" target="_blank">element-callout.html</a></p>
-				
-				<br>
-                <h4>Carousel</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="carousel-slider carousel-arrows carousel-arrows-6col row"&gt;
-					&lt;div class="col-sm-2"&gt;&lt;img src="images/content/portfolios/square/1.jpg" alt="Thumbnail"&gt;&lt;/div&gt;
-					&lt;div class="col-sm-2"&gt;&lt;img src="images/content/portfolios/square/2.jpg" alt="Thumbnail"&gt;&lt;/div&gt;
-					&lt;div class="col-sm-2"&gt;&lt;img src="images/content/portfolios/square/3.jpg" alt="Thumbnail"&gt;&lt;/div&gt;
-					....
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-carousel.html" target="_blank">element-carousel.html</a></p>
-				
-				<br>
-                <h4>Clients Logo</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-client-logo"&gt;
-					&lt;img src="images/content/clients/1.png" alt="Logo"&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-clients.html" target="_blank">element-clients.html</a></p>
-				
-				<br>
-                <h4>Columns</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="row"&gt;
-					&lt;div class="col-sm-3"&gt;
-						....
-					&lt;/div&gt;
-					&lt;div class="col-sm-3"&gt;
-						....
-					&lt;/div&gt;
-					&lt;div class="col-sm-3"&gt;
-						....
-					&lt;/div&gt;
-					&lt;div class="col-sm-3"&gt;
-						....
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-columns.html" target="_blank">element-columns.html</a></p>
-				
-				<br>
-                <h4>Content Backgrounds</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;p class="bg-info bg-padding"&gt;....&lt;/p&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-content-backgrounds.html" target="_blank">element-content-backgrounds.html</a></p>
-				
-				<br>
-                <h4>Countdown</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-countdown"&gt;
-					&lt;h4&gt;{dn}&lt;/h4&gt;
-					&lt;p&gt;{dl}&lt;/p&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-countdown.html" target="_blank">element-countdown.html</a></p>
-				
-				<br>
-                <h4>Counters</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-counter"&gt;
-					&lt;h4&gt;&lt;span&gt;300&lt;/span&gt;&lt;/h4&gt;
-					&lt;i class="ion ion-beaker"&gt;&lt;/i&gt;
-					&lt;p&gt;cups of coffee&lt;/p&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-counters.html" target="_blank">element-counters.html</a></p>
-				
-				<br>
-                <h4>Dialog Box</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;button type="button" data-toggle="modal" data-target="#modalBox"&gt;Modal Box&lt;/button&gt;
-				
-				&lt;div class="modal fade" id="modalBox" role="dialog" tabindex="-1" aria-labelledby="modalBoxLabel"&gt;
-					&lt;div class="modal-dialog" role="document"&gt;
-						&lt;div class="modal-content"&gt;
-							&lt;div class="modal-header"&gt;
-								&lt;button type="button" class="close" data-dismiss="modal" aria-label="Close"&gt;&lt;span aria-hidden="true"&gt;&times;&lt;/span&gt;&lt;/button&gt;
-								&lt;h4 class="modal-title" id="modalBoxLabel"&gt;....&lt;/h4&gt;
-							&lt;/div&gt;
-							&lt;div class="modal-body"&gt;
-								....
-							&lt;/div&gt;
-							&lt;div class="modal-footer"&gt;
-								&lt;button type="button" class="btn-grey" data-dismiss="modal"&gt;Close&lt;/button&gt;
-								&lt;button type="button"&gt;Submit&lt;/button&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-dialog-box.html" target="_blank">element-dialog-box.html</a></p>
-				
-				<br>
-                <h4>Divider</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="sep-border"&gt;&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-divider.html" target="_blank">element-divider.html</a></p>
-				
-				<br>
-                <h4>Dropcaps</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;p&gt;&lt;span class="dropcap dropcap-green"&gt;S&lt;/span&gt;....&lt;/p&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-dropcaps.html" target="_blank">element-dropcaps.html</a></p>
-				<br>
-				
-                <h4>Forms</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;input type="text" name="text" placeholder="Enter your text here...."&gt;
-				
-				&lt;select&gt;
-					&lt;option&gt;....&lt;/option&gt;
-					....
-				&lt;/select&gt;
-				
-				&lt;textarea placeholder="Enter your text here...."&gt;&lt;/textarea&gt;
-				
-				&lt;input type="button" name="button" value="Button Text"&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-forms.html" target="_blank">element-forms.html</a></p>
-				
-				<br>
-                <h4>Google Maps</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div id="map1" class="embed-map"&gt;&lt;/div&gt;
-                </pre>
-				<p>Below is some scripts to change the Google Maps settings (place before <strong>&lt;/body&gt;</strong> tag):</p>
-                <pre class="brush: js; ruler: true; first-line: 1">
-				var map;
-				map = new window.GMaps({
-					div: '#map1',
-					lat: -12.043333,
-					lng: -77.028333,
-					scrollwheel: false,
-					zoomControl: false,
-					disableDoubleClickZoom: false,
-					disableDefaultUI: true
-				});
-                </pre>
-                <p><span class="label label-warning">Note:</span> You can see the complete documentation <strong><a href="http://hpneo.github.io/gmaps/documentation.html" target="_blank">here!</a></strong></p>
-				<p>For more details and the results output you can click this link: <a href="../html/element-google-maps.html" target="_blank">element-google-maps.html</a></p>
-				
-				<br>
-                <h4>Heading</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="post-heading-center"&gt;
-					&lt;h2&gt;....&lt;/h2&gt;
-					&lt;p&gt;....&lt;/p&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-heading.html" target="_blank">element-heading.html</a></p>
-				
-				<br>
-                <h4>Icon Boxes</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-feature-icon"&gt;
-					&lt;i class="ion ion-android-laptop animation" data-animation="animation-bounce-in-down"&gt;&lt;/i&gt;
-					&lt;h4&gt;....&lt;/h4&gt;
-					&lt;p&gt;....&lt;/p&gt;
-					&lt;a href="#"&gt;Learn More &lt;i class="ion ion-arrow-right-b"&gt;&lt;/i&gt;&lt;/a&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-icon-boxes.html" target="_blank">element-icon-boxes.html</a></p>
-				
-				<br>
-                <h4>Icons</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;i class="ion ion-ionic"&gt;&lt;/i&gt;
-				&lt;i class="ion ion-arrow-up-a"&gt;&lt;/i&gt;
-				&lt;i class="ion ion-arrow-right-a"&gt;&lt;/i&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-icon-list.html" target="_blank">element-icon-list.html</a></p>
-				
-				<br>
-                <h4>Lists</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="list-icon"&gt;
-					&lt;ul&gt;
-						&lt;li&gt;&lt;i class="ion ion-android-done"&gt;&lt;/i&gt;....&lt;/li&gt;
-						....
-					&lt;/ul&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-lists.html" target="_blank">element-lists.html</a></p>
-				
-				<br>
-                <h4>Image Gallery &amp; Lightbox</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-gallery"&gt;
-					&lt;div class="row"&gt;
-						
-						&lt;div class="col-xs-6 col-sm-3"&gt;
-							&lt;figure class="img-hover hover-white"&gt;
-								&lt;a href="images/content/portfolios/full/1.jpg" class="fancybox" data-fancybox-group="images_gallery"&gt;
-									&lt;img src="images/content/portfolios/square/1.jpg" alt="Thumbnail"&gt;
-									&lt;div class="overlay-masked"&gt;
-										&lt;i class="ion ion-plus"&gt;&lt;/i&gt;
-									&lt;/div&gt;
-								&lt;/a&gt;
-							&lt;/figure&gt;
-						&lt;/div&gt;
-						
-						....
-						
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-media-gallery.html" target="_blank">element-media-gallery.html</a></p>
-				
-				<br>
-                <h4>Image Hover</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;figure class="img-hover"&gt;
-					&lt;a href="#"&gt;
-						&lt;img src="images/content/portfolios/thumb/1.jpg" alt="Thumbnail"&gt;
-						&lt;div class="overlay-masked"&gt;
-							&lt;i class="ion ion-plus"&gt;&lt;/i&gt;
-						&lt;/div&gt;
-					&lt;/a&gt;
-				&lt;/figure&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-media-hover.html" target="_blank">element-media-hover.html</a></p>
-				
-				<br>
-                <h4>Pricing Tables</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-tbl-pricing tbl-prc-recommended row"&gt;
-                	&lt;div class="col-sm-4"&gt;
-                		&lt;div class="tbl-prc-col"&gt;
-							&lt;div class="tbl-prc-heading"&gt;
-								&lt;h4&gt;Standard&lt;/h4&gt;
-								&lt;h5&gt;&lt;span&gt;$&lt;/span&gt;29&lt;/h5&gt;
-								&lt;p&gt;per month&lt;/p&gt;
-							&lt;/div&gt;
-							&lt;ul class="tbl-prc-list list-icon"&gt;
-								&lt;li&gt;&lt;i class="ion ion-checkmark-round"&gt;&lt;/i&gt;Responsive Display&lt;/li&gt;
-								....
-							&lt;/ul&gt;
-                            &lt;div class="tbl-prc-footer"&gt;
-								&lt;a href="#" class="btn-custom"&gt;Sign-up Now&lt;/a&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-                	&lt;/div&gt;
-                	
-                	&lt;div class="col-sm-4"&gt;
-                		&lt;div class="tbl-prc-col tbl-prc-col-recommended"&gt;
-							&lt;h5 class="tbl-prc-badge"&gt;Best Seller&lt;/h5&gt;
-							&lt;div class="tbl-prc-heading"&gt;
-								&lt;h4&gt;Professional&lt;/h4&gt;
-								&lt;h5&gt;&lt;span&gt;$&lt;/span&gt;49&lt;/h5&gt;
-								&lt;p&gt;per month&lt;/p&gt;
-							&lt;/div&gt;
-							&lt;ul class="tbl-prc-list list-icon"&gt;
-								&lt;li&gt;&lt;i class="ion ion-checkmark-round"&gt;&lt;/i&gt;Responsive Display&lt;/li&gt;
-								....
-							&lt;/ul&gt;
-							&lt;div class="tbl-prc-footer"&gt;
-								&lt;a href="#" class="btn-custom"&gt;Sign-up Now&lt;/a&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-                	&lt;/div&gt;
-                	
-                	&lt;div class="col-sm-4"&gt;
-                		&lt;div class="tbl-prc-col"&gt;
-							&lt;div class="tbl-prc-heading"&gt;
-								&lt;h4&gt;Ultimate&lt;/h4&gt;
-								&lt;h5&gt;&lt;span&gt;$&lt;/span&gt;99&lt;/h5&gt;
-								&lt;p&gt;per month&lt;/p&gt;
-							&lt;/div&gt;
-							&lt;ul class="tbl-prc-list list-icon"&gt;
-								&lt;li&gt;&lt;i class="ion ion-checkmark-round"&gt;&lt;/i&gt;Responsive Display&lt;/li&gt;
-								....
-							&lt;/ul&gt;
-							&lt;div class="tbl-prc-footer"&gt;
-								&lt;a href="#" class="btn-custom"&gt;Sign-up Now&lt;/a&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-                	&lt;/div&gt;
-                &lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-pricing-tables.html" target="_blank">element-pricing-tables.html</a></p>
-				
-				<br>
-                <h4>Progress Bar</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-progress-bar"&gt;
-					&lt;p&gt;Photoshop Design&lt;/p&gt;
-					&lt;div class="progress-bar-line in"&gt;
-						&lt;div class="bar-line-overlay" style="width:90%;"&gt;90%&lt;/div&gt;
-						&lt;span class="bar-line-val" style="left:90%;"&gt;&lt;i&gt;90&lt;/i&gt;%&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-progress-bar.html" target="_blank">element-progress-bar.html</a></p>
-				
-				<br>
-                <h4>Quotes</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;p class="affa-quote"&gt;....&lt;/p&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-quotes.html" target="_blank">element-quotes.html</a></p>
-				
-				<br>
-                <h4>Recent Portfolios</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-portfolio"&gt;
-					&lt;figure class="post-thumbnail post-item-thumbnail img-hover3"&gt;
-						&lt;img src="images/content/portfolios/thumb/1.jpg" alt="Olivera Note"&gt;
-						&lt;div class="overlay-masked"&gt;
-							&lt;a href="#" class="link-left" title="Live Preview"&gt;&lt;i class="ion ion-eye"&gt;&lt;/i&gt;&lt;/a&gt;
-							&lt;a href="#" class="link-right" title="More Details"&gt;&lt;i class="ion ion-android-open"&gt;&lt;/i&gt;&lt;/a&gt;
-						&lt;/div&gt;
-					&lt;/figure&gt;
-					&lt;div class="post-item-txt"&gt;
-						&lt;h4 class="entry-title post-item-title"&gt;
-							&lt;a href="#"&gt;....&lt;/a&gt;
-						&lt;/h4&gt;
-						&lt;div class="entry-meta post-item-meta"&gt;
-							....
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-recent-portfolios.html" target="_blank">element-recent-portfolios.html</a></p>
-				
-				<br>
-                <h4>Recent Posts</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-post"&gt;
-					&lt;figure class="post-thumbnail post-item-thumbnail img-hover2"&gt;
-						&lt;a href="#"&gt;
-							&lt;img src="images/content/blog/thumb/1.jpg" alt="Transitions In UX Design"&gt;
-							&lt;div class="overlay-masked"&gt;
-								&lt;i class="ion ion-eye"&gt;&lt;/i&gt;
-							&lt;/div&gt;
-						&lt;/a&gt;
-					&lt;/figure&gt;
-					&lt;div class="post-item-txt"&gt;
-						&lt;h4 class="entry-title post-item-title"&gt;
-							&lt;a href="#"&gt;....&lt;/a&gt;
-						&lt;/h4&gt;
-						&lt;div class="entry-content post-item-content"&gt;
-							&lt;p&gt;....&lt;/p&gt;
-						&lt;/div&gt;
-						&lt;div class="entry-meta post-item-meta"&gt;
-							....
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-recent-posts.html" target="_blank">element-recent-posts.html</a></p>
-				
-				<br>
-                <h4>Recent Products</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-product"&gt;
-					&lt;figure class="post-thumbnail post-item-thumbnail"&gt;
-						&lt;a href="#"&gt;
-							&lt;div class="post-thumbnail-overlay"&gt;
-								&lt;img src="images/content/products/large/1-back.jpg" alt="Thumbnail"&gt;
-							&lt;/div&gt;
-							&lt;img src="images/content/products/large/1-front.jpg" alt="Thumbnail"&gt;
-						&lt;/a&gt;
-					&lt;/figure&gt;
-					&lt;div class="post-item-txt"&gt;
-						&lt;p class="post-item-cats"&gt;....&lt;/p&gt;
-						&lt;h4 class="entry-title post-item-title"&gt;
-							&lt;a href="#"&gt;....&lt;/a&gt;
-						&lt;/h4&gt;
-						&lt;div class="entry-meta post-item-meta"&gt;
-							&lt;div class="post-meta-rate"&gt;
-								&lt;span class="post-rate-val" style="width:90%;"&gt;4.5&lt;/span&gt;
-							&lt;/div&gt;
-							&lt;div class="post-meta-price"&gt;
-								&lt;p class="price-original"&gt;....&lt;/p&gt;
-								&lt;p class="price-discount"&gt;....&lt;/p&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-						&lt;a href="#" class="add-cart"&gt;
-							&lt;span class="current"&gt;+&lt;/span&gt;
-							&lt;span class="hover"&gt;+&lt;/span&gt;
-						&lt;/a&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-recent-products.html" target="_blank">element-recent-products.html</a></p>
-				
-				<br>
-                <h4>Recent Tweets</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="carousel-slider carousel-tweets no-content"&gt;Loading....&lt;/div&gt;
-                &lt;div class="carousel-slider carousel-tweets2 no-content"&gt;Loading....&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-recent-tweets.html" target="_blank">element-recent-tweets.html</a></p>
-				
-				<br>
-                <h4>Sliders</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="carousel-slider general-slider"&gt;
-					&lt;div&gt;&lt;img src="images/content/portfolios/full/1.jpg" alt="Image"&gt;&lt;/div&gt;
-					....
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-sliders.html" target="_blank">element-sliders.html</a></p>
-				
-				<br>
-                <h4>Social Media</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-socials"&gt;
-                	&lt;a href="#"&gt;&lt;i class="ion ion-social-facebook"&gt;&lt;/i&gt;&lt;/a&gt;
-                    &lt;a href="#"&gt;&lt;i class="ion ion-social-twitter"&gt;&lt;/i&gt;&lt;/a&gt;
-                    &lt;a href="#"&gt;&lt;i class="ion ion-social-googleplus"&gt;&lt;/i&gt;&lt;/a&gt;
-                    ....
-                &lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-social-media.html" target="_blank">element-social-media.html</a></p>
-				
-				<br>
-                <h4>Styled Tables</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;table class="table table-bordered"&gt;
-					&lt;thead&gt;
-						&lt;tr&gt;
-							&lt;th&gt;....&lt;/th&gt;
-							....
-						&lt;/tr&gt;
-					&lt;/thead&gt;
-					&lt;tfoot&gt;
-						&lt;tr&gt;
-							&lt;td&gt;....&lt;/td&gt;
-							....
-						&lt;/tr&gt;
-					&lt;/tfoot&gt;
-					&lt;tbody&gt;
-						&lt;tr&gt;
-							&lt;td&gt;....&lt;/td&gt;
-							....
-						&lt;/tr&gt;
-						&lt;tr&gt;
-							&lt;td&gt;....&lt;/td&gt;
-							....
-						&lt;/tr&gt;
-						&lt;tr&gt;
-							&lt;td&gt;....&lt;/td&gt;
-							....
-						&lt;/tr&gt;
-					&lt;/tbody&gt;
-				&lt;/table&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-styled-tables.html" target="_blank">element-styled-tables.html</a></p>
-				
-				<br>
-                <h4>Tabs</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;ul class="nav nav-tabs affa-nav-tabs" role="tablist"&gt;
-                    &lt;li role="presentation" class="active"&gt;
-                    	&lt;a href="#tabpanel11" aria-controls="tabpanel11" role="tab" data-toggle="tab"&gt;....&lt;/a&gt;
-                    &lt;/li&gt;
-                    ....
-                &lt;/ul&gt;
-                
-                &lt;div class="tab-content"&gt;
-					&lt;div role="tabpanel" class="tab-pane fade active in" id="tabpanel11"&gt;
-                    	....
-                    &lt;/div&gt;
-                    ....
-                &lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-tabs.html" target="_blank">element-tabs.html</a></p>
-				
-				<br>
-                <h4>Teams</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-team"&gt;
-					&lt;img src="images/content/avatars/1.jpg" alt="Avatar"&gt;
-					&lt;div class="team-heading"&gt;
-						&lt;h4&gt;....&lt;/h4&gt;
-						&lt;p&gt;....&lt;/p&gt;
-					&lt;/div&gt;
-					&lt;div class="team-desc"&gt;
-						&lt;p&gt;....&lt;/p&gt;
-					&lt;/div&gt;
-					&lt;div class="team-socials"&gt;
-						&lt;a href="#"&gt;&lt;i class="ion ion-social-facebook"&gt;&lt;/i&gt;&lt;/a&gt;
-						....
-					&lt;/div&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-team.html" target="_blank">element-team.html</a></p>
-				
-				<br>
-                <h4>Testimonials</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="affa-testimonial"&gt;
-					&lt;p&gt;....&lt;/p&gt;
-					&lt;h4&gt;....&lt;/h4&gt;
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-testimonials.html" target="_blank">element-testimonials.html</a></p>
-				
-				<br>
-                <h4>Toggles</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;div class="panel-group affa-panel-group panel-group-toggle"&gt;
-					&lt;div class="panel panel-default"&gt;
-						&lt;div class="panel-heading"&gt;
-							&lt;h4 class="panel-title"&gt;
-								&lt;a href="#collapse11" class="collapsed"&gt;....&lt;/a&gt;
-							&lt;/h4&gt;
-						&lt;/div&gt;
-						&lt;div id="collapse11" class="panel-collapse collapse"&gt;
-							&lt;div class="panel-body"&gt;
-								....
-							&lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-					....
-				&lt;/div&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-toggles.html" target="_blank">element-toggles.html</a></p>
-				
-				<br>
-                <h4>Tooltips</h4>
-				<pre class="brush: js; ruler: true; first-line: 1">
-				&lt;a href="#" class="btn btn-default btn-popover" data-toggle="popover" data-container="body" data-placement="left" title="...." data-content="...."&gt;....&lt;/a&gt;
-                </pre>
-				<p>For more details and the results output you can click this link: <a href="../html/element-tooltips.html" target="_blank">element-tooltips.html</a></p>
-				
-				<br>
-                <h4>Typography</h4>
-				<p>For more details and the results output you can click this link: <a href="../html/element-typography.html" target="_blank">element-typography.html</a></p>
-				
-                <br>
-                <h4>Ionicons Icon Packs</h4>
-                <p>You can also use built in icon packs in this template, all icons use CSS Font feature, so you can edit and give color to the icon easily. For referrences to easier you use all icons you can visit <strong><a href="http://ionicons.com" target="_blank">here!</a></strong></p>
-                
-                <br>
-                <h3 id="css">CSS Structure</h3>
-                <hr>
-                <p>I'm using one main CSS file <strong>(/css/style.css)</strong>, in this template which you are free to modify depending on the customization you require. There are also two additional style sheets that I do not recommend changing. Those style sheets reside in the <strong>/css/</strong> folder. Below are 3 additional CSS files:</p>
-                <ul style="list-style-type:square;">
-                    <li><strong>bootstrap.min.css</strong> - This is a main stylesheet that required for basic template styling like grid, form, input and web elements.</li>
-                    <li><strong>ionicons.min.css</strong> - CSS stylesheets for font icon packs.</li>
-                    <li><strong>jquery.fancybox.css</strong> - This stylesheet used for styling the images gallery popup.</li>
-					<li><strong>jquery.scrollbar.css</strong> - This stylesheet used for styling the scroll bar.</li>
-                    <li><strong>slick.css</strong> - This stylesheet use for styling all the web carousel elements.</li>
-                    <li><strong>slick-theme.css</strong> - Add additional styling to make Slick Slider look more beautiful.</li>
-					<li><strong>slider-pro.min.css</strong> - This stylesheet use for styling secondary slider elements.</li>
-					<li><strong>easyzoom.css</strong> - This stylesheet use for styling zooming image on hover.</li>
-					<li><strong>animate.min.css</strong> - This stylesheet use for styling the animation effects.</li>
-					<li><strong>no-js.css</strong> - This stylesheet will be enabled if your browser don't support javascript.</li>
-                    <li><strong>ie-older.css</strong> - This stylesheet will be enabled if you use Internet Explorer 7 and below.</li>
-                </ul>
-                <p>The main CSS file <strong>(/css/style.css)</strong> contains all of the specific stylings for the page. The file was divided into several sessions as below:</p>
-                <pre class="brush: js; ruler: true; first-line: 1;">
-                /* ========================= Site Styles ========================= */
-                
-                General styles for all web elements
-                
-                /* ========================= Header ========================= */
-                
-                CSS styles for the header section
-                
-                /* ========================= Elements ========================= */
-                
-                CSS styles for specific web elements
-                
-                /* ========================= Posts ========================= */
-                
-                CSS styles for the post elements
-                
-                /* ========================= Widgets ========================= */
-                
-                CSS styles for the widgets elements
-                
-                /* ========================= Sidebar ========================= */
-                
-                CSS styles for the sidebar section
-                
-                /* ========================= Bottom ========================= */
-                
-                CSS styles for the bottom section
-                
-                /* ========================= Footer ========================= */
-                
-                CSS styles for the bottom section
-                
-                /* ========================= Spacing ========================= */
-                
-                CSS styles for spacing elements
-                
-                /* ========================= Media Queries ========================= */
-                
-                CSS styles for support all kinds of different screen sizes
-                </pre>
-				
-				<br>
-				<ul style="list-style-type:square;">
-                    <li><strong>app.css</strong> - This stylesheet used for styling the app landing page.</li>
-                    <li><strong>blog.css</strong> - This stylesheet used for styling the blog landing page.</li>
-					<li><strong>construction.css</strong> - This stylesheet used for styling the construction landing page.</li>
-					<li><strong>education.css</strong> - This stylesheet used for styling the education landing page.</li>
-					<li><strong>minimalist.css</strong> - This stylesheet used for styling the minimalist landing page.</li>
-					<li><strong>portfolio.css</strong> - This stylesheet used for styling the portfolio landing page.</li>
-					<li><strong>product.css</strong> - This stylesheet used for styling the product landing page.</li>
-					<li><strong>shop.css</strong> - This stylesheet used for styling the shop landing page.</li>
-					<li><strong>startup.css</strong> - This stylesheet used for styling the startup landing page.</li>
-                </ul>
-				
-				<br>
-                <p>If you would like to edit a specific section of the site, simply find the appropriate label in the <strong>.css</strong> file, and then scroll down until you find the appropriate style that needs to be edited.</p>
-                
-                <br>
-                <h3 id="scripts">Scripts</h3>
-                <hr>
-                <p>This theme uses several scripts many of which are documented within the theme's code. If you're a developer, you will find this particularly useful.</p>
-                <ul class="nav nav-list nav-list-custom">
-                	<li><a href="http://jquery.com" target="_blank"><i class="fa fa-chevron-right"></i> jQuery v1.11.3</a></li>
-                    <li><a href="http://getbootstrap.com" target="_blank"><i class="fa fa-chevron-right"></i> Bootstrap JS</a></li>
-                    <li><a href="http://gsgd.co.uk/sandbox/jquery/easing/" target="_blank"><i class="fa fa-chevron-right"></i> jQuery Easing</a></li>
-                    <li><a href="http://www.jqueryscript.net/animation/Configurable-Smooth-Scrolling-Plugin-With-jQuery-Scroll-With-Ease.html" target="_blank"><i class="fa fa-chevron-right"></i> Scroll With Ease</a></li>
-                    <li><a href="https://github.com/ryanve/response.js" target="_blank"><i class="fa fa-chevron-right"></i> Response JS</a></li>
-                    <li><a href="https://github.com/scottjehl/Respond" target="_blank"><i class="fa fa-chevron-right"></i> Respond JS</a></li>
-                    <li><a href="https://github.com/mathiasbynens/jquery-placeholder" target="_blank"><i class="fa fa-chevron-right"></i> jQuery Placeholder</a></li>
-                    <li><a href="http://fitvidsjs.com" target="_blank"><i class="fa fa-chevron-right"></i> jQuery FitVids</a></li>
-                    <li><a href="https://github.com/imakewebthings/jquery-waypoints" target="_blank"><i class="fa fa-chevron-right"></i> jQuery Waypoints</a></li>
-					<li><a href="http://fancyapps.com/fancybox/" target="_blank"><i class="fa fa-chevron-right"></i> jQuery Fancybox</a></li>
-                    <li><a href="http://kenwheeler.github.io" target="_blank"><i class="fa fa-chevron-right"></i> jQuery Slick</a></li>
-					<li><a href="http://bqworks.com/slider-pro/" target="_blank"><i class="fa fa-chevron-right"></i> jQuery sliderPro</a></li>
-					<li><a href="https://github.com/gromo/jquery.scrollbar/" target="_blank"><i class="fa fa-chevron-right"></i> jQuery Scrollbar</a></li>
-					<li><a href="http://pixelcog.github.io/parallax.js/" target="_blank"><i class="fa fa-chevron-right"></i> Parallax JS</a></li>
-                    <li><a href="https://github.com/bfintal/Counter-Up" target="_blank"><i class="fa fa-chevron-right"></i> jQuery CounterUp</a></li>
-					<li><a href="http://keith-wood.name/countdown.html" target="_blank"><i class="fa fa-chevron-right"></i> jQuery Countdown</a></li>
-					<li><a href="http://maketea.co.uk" target="_blank"><i class="fa fa-chevron-right"></i> Easyzoom JS</a></li>
-					<li><a href="http://hpneo.github.com/gmaps/" target="_blank"><i class="fa fa-chevron-right"></i> GMaps JS</a></li>
-					<li><a href="http://isotope.metafizzy.co" target="_blank"><i class="fa fa-chevron-right"></i> Isotope JS</a></li>
-                </ul>
-                
-                <br>
-                <h3 id="php">PHP Integration</h3>
-                <hr>
-				<p><strong>Contact &amp; Signup Form</strong></p>
-				<p>This template use the PHP engine for activate contact &amp; signup proses. Through the contact form a message will direct send to your email address. Then for the signup form a message will send to guest/visitor and your email address. So you can edit your email address in the files below:</p>
-				<p>
-					<strong>/includes/process-contact.php</strong>
-					<br><strong>/includes/process-signup.php</strong>
-					<br><strong>/includes/process-signup2.php</strong>
-					<br><strong>/includes/process-signup3.php</strong>
-				</p>
-				<p>Find this line of code and replace with your email address:</p>
-				<pre class="brush: js; ruler: true; first-line: 1;">
-                $my_email = 'support@affapress.com'; // Change with your email address
-                </pre>
 
-				<br>
-				<p><strong>Subscribe Form</strong></p>
-                <p>This template use the PHP engine for subscribe form that has supported with MailChimp integration. To activate this integration you must make some adjusment to several .php files.</p>
-                <p><span class="label label-warning">Required:</span> You has already signed in <a href="http://mailchimp.com" target="_blank">mailchimp.com</a> and was familiar with the features provided by the MailChimp.</p>
-                <p>To adjust the MailChimp integration, follow this instruction:</p>
-                <ol>
-                	<li>Open the <strong>/includes/mailchimp/config.inc.php</strong> file.</li>
-                    <li>Change <strong>$apikey</strong> variable with your MailChimp API Key, you can see in <strong><a href="http://admin.mailchimp.com/account/api" target="_blank">http://admin.mailchimp.com/account/api</a></strong></li>
-                    <li>Also write your MailChimp List ID in <strong>$listId</strong> variable. To get the List ID, login to your MailChimp account » select one of the list that has been created » go to <strong>Settings</strong> menu » <strong>List name &amp; defaults</strong>.</li>
-                </ol>
-				
-				<br>
-				<p><strong>Twitter Feeds</strong></p>
-				<p>In <strong>element-recent-tweets.html</strong> page there are some variations of recent tweets elements. To change the feeds data you must replace the Twitter userid with your own in <strong>/includes/tweets/get-tweets.php</strong> file:</p>
-				<pre class="brush: js; ruler: true; first-line: 1;">
-                $userid = 'twitter'; // Change with your twitter
-                </pre>
-				
-                <br>
-                <h3 id="image">Image Files</h3>
-                <hr>
-                <p>The following Photoshop files are included with download package file, all the files place in <strong>/psd/</strong> folder.</p>
-                <ul style="list-style-type:square;">
-                	<li>blog.psd</li>
-					<li>blog-single.psd</li>
-					<li>index.psd</li>
-					<li>portfolio.psd</li>
-					<li>portfolio-single.psd</li>
-					<li>shop.psd</li>
-					<li>shop-single.psd</li>
-					<li>typography.psd</li>
-				</ul>
-				
-				<br>
-                <p>In addition to several assets you can download it for free through the links below:</p>
-                <ul class="nav nav-list nav-list-custom">
-                	<li><a href="http://p-px.com/iphone-6s/" target="_blank"><i class="fa fa-chevron-right"></i> iPhone 6S Front &amp; Angled Views PSD + AI Mockup</a></li>
-					<li><a href="http://www.pixeden.com/psd-mock-up-templates/iphone-6-plus-psd-vector-mockup" target="_blank"><i class="fa fa-chevron-right"></i> iPhone 6 Plus Psd Vector Mockup</a></li>
-                    <li><a href="http://www.graphicsoulz.com/premium-item/iphone-6-psd-mockup-freebie/" target="_blank"><i class="fa fa-chevron-right"></i> Modern Psd Responsive Showcase</a></li>
-					<li><a href="https://dribbble.com/shots/1353646-Simple-Browser-Mockup" target="_blank"><i class="fa fa-chevron-right"></i> Simple Browser Mockup</a></li>
+    <noscript>
+        <link rel="stylesheet" href="css/no-js.css">
+    </noscript>
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="images/favicon-16x16.png">
+    <link rel="apple-touch-icon" href="images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-icon-114x114.png">
+
+</head>
+
+<body class="body-minimalist body-header-2">
+
+    <!-- #nav-mobile -->
+    <nav id="nav-mobile">
+        <div class="scrollbar-inner">
+
+            <button type="button" class="navbar-btn-close"><i class="ion ion-close"></i>Close</button>
+
+            <div class="navbar-menu">
+                <ul class="nav">
+                    <li class="menu-item current-menu-item">
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="about-us.html">About</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="people.html">People</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="sponsorship.html">Sponsorship</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="schedule.html">Schedule</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="media.html">Media</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="scholarship.html">Scholarship</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="contacts.html">Contact us</a>
+                    </li>
+					<!--<li class="menu-item">
+						<a href="/members">Members Only</a>
+					</li>-->
                 </ul>
-                
-                <br>
-                <h3 id="credits">Credits</h3>
-                <hr>
-                
-                <ul class="nav nav-list nav-list-custom">
-                	<li><a href="http://getbootstrap.com" target="_blank"><i class="fa fa-chevron-right"></i> Twitter Bootstrap</a></li>
-                    <li><a href="http://ionicons.com" target="_blank"><i class="fa fa-chevron-right"></i> Ionicons</a></li>
-                    <li><a href="https://fonts.google.com" target="_blank"><i class="fa fa-chevron-right"></i> Google WebFonts</a></li>
-                </ul>
-                
-                <br><br>
-                <p>Once again, thank you so much for purchasing this template. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. Please contact me via email or social media. I'll do my best to assist!</p>
-                
             </div>
+
         </div>
-	</div>
-    
-    <footer id="footer">
-    	<div class="container">Copyright © 2017 by Affapress. All rights reserved.</div>
-    </footer>
-    
+    </nav>
+    <!-- #nav-mobile end -->
+
+    <!-- #body-wrap -->
+    <div id="body-wrap">
+
+
+        <!-- #header -->
+        <header id="header" class="header-page">
+
+            <!-- #nav-mobile-top -->
+            <div id="nav-mobile-top">
+
+                <!-- .container -->
+                <div class="container-fluid">
+                    <div class="navmenu">
+
+                        <button type="button" class="navbar-btn-toggle"><i class="ion ion-navicon"></i></button>
+
+                        <div class="navbar-logo">
+                            <a href="index.html"><img src="images/logo.png" alt="Logo"></a>
+                            <!-- site logo -->
+                        </div>
+
+                    </div>
+                </div>
+                <!-- .container end -->
+
+            </div>
+            <!-- #nav-mobile-top end -->
+
+            <!-- #navigation -->
+            <nav id="navigation">
+
+                <!-- .navtop -->
+                <div class="navtop">
+
+                    <!-- .container -->
+                    <div class="container">
+
+                        <div class="nav-txt">
+                            <p><i class="ion ion-android-phone-portrait"></i> Want to keep in touch? Sign up for our <a href="http://eepurl.com/gLxk7z" target="_blank">mailing list</a>!</p>
+                        </div>
+
+                        <div class="nav-socials">
+                            <a href="https://www.facebook.com/tarawindscommunityband/" title="Facebook" target="_blank"><i class="ion ion-social-facebook"></i></a>
+                            <a href="https://www.youtube.com/channel/UCflbd-gnbpGe9oFuYJV0pVg" title="Youtube" target="_blank"><i class="ion ion-social-youtube"></i></a>
+                        </div>
+
+                    </div>
+                    <!-- .container end -->
+
+                </div>
+                <!-- .navtop end -->
+
+                <!-- .navbar -->
+                <div class="navbar">
+
+                    <!-- .container -->
+                    <div class="container">
+                        <div class="navbar-wrap">
+
+                            <div class="navbar-logo">
+                                <a href="index.html"><img src="images/logo.png" alt="Logo"></a>
+                                <!-- site logo -->
+                            </div>
+
+                            <div class="navbar-menu">
+                                <ul class="nav">
+                                    <li class="menu-item current-menu-item">
+                                        <a href="index.html">Home</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="about-us.html">About</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="people.html">People</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="sponsorship.html">Sponsorship</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="schedule.html">Schedule</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="media.html">Media</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="scholarship.html">Scholarship </a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="contacts.html">Contact us </a>
+                                    </li>
+									<!--<li class="menu-item">
+										<a href="/members">Members Only</a>
+									</li>-->
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- .container end -->
+
+                </div>
+                <!-- .navbar end -->
+
+            </nav>
+            <!-- #navigation end -->
+
+            <div>
+				<figure class="img-hover2 hover-white">
+					<a class="fancybox-thumbs" data-fancybox-group="header_large" href="images/content/header_large_2024.jpg"><img src="images/content/header_2024.jpg" alt="Group shot of the Tara Winds band at the 2024 GMEA conference concert">
+						<div class="overlay-masked">
+							<i class="ion ion-eye"></i>
+						</div>
+					</a>
+				</figure>
+            </div>
+
+        </header>
+        <!-- #header end -->
+
+
+        <!-- Our Mission -->
+        <!--  <div id="features" class="padding-top80 padding-bottom40 text-center-xs">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-sm-3">
+                        <div class="post-heading-left2">
+                            <h4><strong>Our Mission</strong></h4>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-9">
+                        <div class="row">
+                            <div class="col-sm-6 margin-bottom40">
+                                <p class="text-md">Tara Winds is an all-adult symphonic band celebrating over 30 years of excellence in musical performance. Our founders, Larry Volman, Ed Davis, and David Gregory envisioned Tara Winds to be a performance medium for local musicians and to encourage school band members to continue performing after completion of their formal studies.</p>
+                                <a href="about-us.html" class="btn-custom btn-sm btn-icon btn-icon-after">Learn More <i class="ion ion-arrow-right-b"></i></a>
+                            </div>
+                            <div class="col-sm-6 margin-bottom40">
+                                <p>The mission statement, Music: Enjoyment For All Ages, expresses the commitment of our found- ers that music is a source of life-long enjoyment. Tara Winds is composed primarily of musicians from metropolitan Atlanta, but draws its total membership from instrumentalists from throughout Georgia.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div> -->
+        <!-- Our Mission end -->
+
+		<div class="margin-top80 margin-bottom40"></div>
+	
+        <!-- Main Content start -->
+                <div style="padding: 5px">   
+	
+		<div class="post-heading-center margin-bottom40">
+                        <p><b>Tara Winds would like to thank you for a wonderful and memorable 23-24 season! <br/>Check back later for details on our 24-25 season.</b></p>
+			<!--<p><a href="/program.html">Click here</a> for our Harmonies of Humor program to learn more about today's music and performers.</p>-->
+			<!--<p>Please see the <a href="/schedule.html">Schedule page</a> for information on the upcoming schedule and for information on Tara Winds concerts.</p>-->
+        </div>
+		
+		<!--<div class="post-heading-center margin-bottom40">
+		<p><a href="/program.html"><img src="/images/content/blog/2024_Harmonies_of_Humor_Steampunk.jpg" alt="Tara Winds Presents Harmonies of Humor at its annual Scholarship Concert. May 19, 2024 at 3:00pm. Lassiter Concert Hall. Marietta, GA." /></a></p>
+			<br />
+        </div>-->
+		
+		<div class="margin-bottom40" style="margin: auto; max-width: 1000px">
+
+                    <h2>Tara Winds Recognition</h2>
+                    <p>
+                        On June 30, 2023, Tara Winds had the pleasure of performing in France at the the Festival des Anches d'Azur in LaCroix Valmer. Read the full story in the <a href="https://issuu.com/docs/8555b529248c8d5b3e17f59585a659e7?fbclid=IwAR3ILWxk2S3UK04CWU_iDi3Vg4kVkSKLd6kPFo2qL3aS4yUhhlBKqfbb0K4">July 2023 edition of the Georgia Music Educators Association's <i>News of Note</i></a>. 
+                    </p>
+
+			<p><img src="/images/content/blog/La_Croix_Valmer_article_header_photo.png" alt="Left: the poster for the Festival des Anches d'Azur. Right: the Tara Winds on stage at the festival's opening night concert." /></p>
+
+                    <blockquote cite="https://issuu.com/docs/8555b529248c8d5b3e17f59585a659e7?fbclid=IwAR3ILWxk2S3UK04CWU_iDi3Vg4kVkSKLd6kPFo2qL3aS4yUhhlBKqfbb0K4">
+                        <p>
+This summer, Tara Winds represented the United States as the first ensemble invited from
+Georgia, by performing at the Festival des Anches d'Azur in LaCroix Valmer. France. For 27
+years, La Croix Valmer's Festival has become a musical highlight each summer in the Bay of
+Saint-Tropez on the French Riviera. Since 1996, more than 55 international orchestras and
+bands have performed in the gardens of the Villa Turquoise. This beautiful setting was
+reconfigured into an outdoor theater in 2011 and renamed the Forum Constantin. Tara
+Winds' concert on Friday evening, June 30th, was incredibly received by an audience of
+nearly 2,000 people. The other ensembles invited this year were from Montreal and
+Copenhagen and were also wonderfully appreciated by the exuberant crowds. The Festival
+and Mayor of LaCroix Valmer provide financial support for international ensembles to
+attend. Travel Gallery, Inc. and Charlie Brodie, Logistics Director for Tara Winds, made all of
+the arrangements for members to travel to Paris and Nice. The Festival treated the band to
+a boat cruise and tour of a winery in southern France.
+                        </p>
+                        <p>
+Under the direction of Dr. Andrea Strauss, Tara Winds performed a wide variety of works.
+including pieces by Bizet, Fauré, Morricone, and Sousa. The band opened the Gala Concert
+with "Atlantic Fanfare" by Christopher Kyle Green, a talented composer from Georgia who is
+also a member of the band. Michael Kobito, Georgia's Teacher of the Year and Associate
+Conductor, conducted "March Lorraine" and "Tico Tico" and Stan Kramer, Director of Bands
+at Union Grove HS and Associate Conductor. lead Tara Winds on "The Symphonic Gershwin
+and "Moment for Morricone". Soprano soloist Amber Greer, who has been singing with Tara
+Winds since she was 11-years-old, sang "Skyfall" and "Georgia on My Mind", which were both
+crowd favorites, and another Georgia native and retired U.S. Army Band musician Dickson
+Grimes thrilled the crowd with a rousing presentation of the "Concerto for Clarinet" by Artie
+Shaw. Our Principal Oboe and a Charter Member, Rusty Wilson, was featured on "Cabriel's
+Oboe" by Ennio Morricone, and a longtime friend of Tara Winds and renowned composer and
+arranger. Dr. Sam Baltzer, met the band in France and guest conducted his setting of "New
+York New York". In addition to the full ensemble performing the Cala Concert, the Tara
+Winds Clarinet Choir performed on the beach Saturday and in the town on Sunday. 
+                        </p>
+                        <p>
+Tara Winds is an all-adult symphonic band with membership ranging from college students
+and first year teachers to retired music educators. The mission of the organization is to
+present the world's finest symphonic band music with passionate and engaging concerts at
+the highest level of professional standards and provide educational programs and
+opportunities for young aspiring musicians.
+"Music: Enjoyment for All Ages" is the motto of
+Tara Winds and to inspire the community with excellence in musical performance is the
+band's goal. Tara Winds has presented invitational performances for numerous regional and
+national music conferences. The organization has the distinction of having performed three
+times for the Midwest International Band & Orchestra Clinic. In 2018, Tara Winds traveled to
+Germany celebrating the ensemble's 30th Anniversary collaborating with the Mannheimer
+Blaserphilharmonie.
+                        </p>
+                    </blockquote>
+        </div>
+
+        </div>
+        <!-- Main Content end -->
+		
+		<!-- Join Us -->
+        <div class="join-us padding-top80 padding-bottom80">
+			
+			<!-- <div class="post-heading-center margin-bottom40"> -->
+				
+            <!-- </div> -->
+		
+            <div class="post-heading-center margin-bottom40">
+                <p><img src="/images/content/join_tara_winds.jpg" alt="Join Tara Winds"/></p>
+                <p>If you are interested in becoming a member of Tara Winds, please complete the online application. Thank you!</p>
+            </div>
+
+            <div class="post-btn-section text-center">
+				<input type="button" name="button" value="Become a Member" data-toggle="modal" data-target="#largeModal"></button>
+            </div>
+
+            <div class="modal fade" id="largeModal" role="dialog" tabindex="-1" aria-labelledby="largeModalLabel">
+                <!-- 3 -->
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body padding-top60">
+                            <div class="post-heading-center">
+                                <h2 class="modal-title" id="largeModalLabel">Join Tara Winds!</h2>
+                                <p>Please fill out the form below with your contact information, and a little bit of information about yourself and your musical past, and we will contact you as soon as possible.</p>
+                            </div>
+
+                            <div class="row">
+                                <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtaaVZqRGVuelU4cHN4MU90UjJJQ0E6MQ&ttl=0" class="google-form"></iframe>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn-grey" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- Join Us end -->
+
+        <div class="sep-border margin-bottom40"></div>
+
+        <!-- Photos -->
+        <div id="blog" class="container">
+
+            <div class="post-heading-center">
+                <h2>Photos</h2>
+                <p>Please take a moment and view some of our photos. You can see more on the <a href="media.html">Media</a> page.</p>
+            </div>
+
+            <!-- .carousel-slider -->
+            <div class="carousel-slider general-slider margin-bottom60">
+
+                <div><img src="images/content/sliders/media-page-slider/bourgeois2016_2.jpg" alt="Image"></div>
+                <div><img src="images/content/sliders/media-page-slider/cbdna2012_1.jpg" alt="Image"></div>
+                <div><img src="images/content/sliders/media-page-slider/fbcwoodstock2017_29.jpg" alt="Image"></div>
+                <div><img src="images/content/sliders/media-page-slider/janfest2017_6.jpg" alt="Image"></div>
+                <div><img src="images/content/sliders/media-page-slider/mos2014_9.jpg" alt="Image"></div>
+
+            </div>
+            <!-- .carousel-slider end -->
+
+        </div>
+        <!-- Photos end -->
+
+        <!-- #clients -->
+        <div id="clients" class="bg-grey padding-top80 padding-bottom80">
+
+            <!-- .container -->
+            <div class="container">
+
+                <div class="text-center padding-top60">
+                    <input type="button" name="button" value="Sponsorship" onClick="location.href='sponsorship.html'">
+                </div>
+
+            </div>
+            <!-- .container end -->
+
+        </div>
+        <!-- #clients end -->
+
+        <!-- Footer -->
+        <footer id="bottom" class="bottom-2">
+
+            <!-- .container -->
+            <div class="container">
+
+                <!-- .footer-widgets -->
+                <div class="footer-widgets">
+
+                    <!-- .row -->
+                    <div class="row">
+
+                       <div class="col-sm-4">
+                            <div class="widget">
+                                <div class="widget_text">
+                                    <h4 class="widget-title">About Tara Winds</h4>
+                                    <p>Tara Winds is an all-adult symphonic band celebrating over 30 years of excellence in musical performance. Our founders, Larry Volman, Ed Davis, and David Gregory envisioned Tara Winds to be a performance medium for local musicians and to encourage school band members to continue performing after completion of their formal studies.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3 col-sm-offset-1">
+                            <div class="widget">
+                                <div class="widget_text">
+                                    <h4 class="widget-title">More Links</h4>
+                                    <ul>
+                                        <li class="menu-item">
+                                            <a href="about-us.html">About us</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="people.html">People</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="sponsorship.html">Sponsorship</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="schedule.html">Schedule</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="media.html">Media</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="scholarship.html">Scholarship </a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="contacts.html">Contact us </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-4">
+                            <div class="widget">
+                                <div class="widget_text">
+                                    <h4 class="widget-title">Contact Us</h4>
+                                    <p>Email: <a href="mailto:andrea.strauss22@gmail.com">andrea.strauss22@gmail.com </a>
+                                        <br>Andrea DeRenzis Strauss, Ph.D. Tara Winds, Conductor and Artistic Director</p>
+                                    <div class="widget-socials">
+                                        <a href="https://www.facebook.com/tarawindscommunityband/" target="_blank"><i class="ion ion-social-facebook"></i></a>
+                                        <a href="https://www.youtube.com/channel/UCflbd-gnbpGe9oFuYJV0pVg" target="_blank"><i class="ion ion-social-youtube"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- .row end -->
+
+                </div>
+                <!-- .footer-widgets end -->
+
+            </div>
+            <!-- .container end -->
+
+        </footer>
+        <!-- Footer end -->
+
+    </div>
+    <!-- #body-wrap end -->
+
+    <a href="#" class="scrollup" title="Back to Top!"><i class="ion ion-android-arrow-up"></i></a>
+    <!-- Back to Top -->
+
     <!--[if lt IE 8]>
     	<div class="browser-notice">
             <div class="container">
             	<div class="text">
                     <h1>Internet Explorer Out To Date</h1>
                     <p>Please update your Internet Explorer browser with a newer version (Internet Explorer 8 above) now!</p>
-                    <span>You can download it <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="blank">here....</a></span>
+                    <span>You can download it <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">here....</a></span>
                 </div>
             </div>
         </div>
 	<![endif]-->
-    
+
     <!-- JavaScripts -->
-    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
-    <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="js/jquery-migrate-1.4.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="js/jquery.plugin.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/shCore.js"></script>
-    <script type="text/javascript" src="js/shBrushJScript.js"></script>
+    <script type="text/javascript" src="js/response.min.js"></script>
+    <script type="text/javascript" src="js/waypoints.min.js"></script>
+    <script type="text/javascript" src="js/jquery.scroll-with-ease.js"></script>
+    <script type="text/javascript" src="js/jquery.placeholder.min.js"></script>
+    <script type="text/javascript" src="js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="js/jquery.mousewheel-3.0.6.pack.js"></script>
+    <script type="text/javascript" src="js/jquery.scrollbar.min.js"></script>
+    <script type="text/javascript" src="js/parallax.min.js"></script>
+    <script type="text/javascript" src="js/isotope.pkgd.min.js"></script>
+    <script type="text/javascript" src="js/slick.min.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
+    <script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+    <script type="text/javascript" src="js/jquery.countdown.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
-    
+
+    <!-- Current Page Scripts -->
+    <script type="text/javascript">
+        var $ = window.jQuery;
+
+        $('.carousel-slider.carousel-blog-minimalist').slick({
+            arrows: false,
+            dots: true,
+            speed: 400,
+            autoplay: true,
+            autoplaySpeed: 5000,
+            draggable: false,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    draggable: true
+                }
+            }]
+        });
+    </script>
+
 </body>
+
 </html>

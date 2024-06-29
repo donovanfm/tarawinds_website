@@ -7,8 +7,6 @@ html {
 
 body { height:100%; }
 
-#preloader { display:none; }
-
 .browser-notice {
 	position:absolute;
 	top:0px;
