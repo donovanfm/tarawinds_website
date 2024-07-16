@@ -1,5 +1,6 @@
 li.past-performance {
   list-style-type: none;
+  text-align: center;
 }
 
 .past-performance .event-name {
