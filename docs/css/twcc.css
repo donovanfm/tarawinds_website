@@ -23,3 +23,8 @@ li.member-name {
   list-style-type: none;
   text-align: center;
 }
+
+.dublin-logo {
+  max-width: 400px;
+  padding: 20px;
+}
