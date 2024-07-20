@@ -1712,6 +1712,9 @@ a.scrollup.visible {
 
 /* ========================= Header ========================= */
 
+.navbar-logo {
+  max-width: 450px;
+}
 #header { position:relative; }
 #header.header-page {
 	background-color:#f0f0f0;
