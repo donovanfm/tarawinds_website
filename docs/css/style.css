@@ -15,7 +15,10 @@
 
 
 /* ========================= Site Styles ========================= */
-
+@media (min-width: 1200px)
+  .container {
+  width: 750px;
+}
 html {
 	overflow-x:hidden;
 	-webkit-font-smoothing:antialiased;
