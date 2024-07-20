@@ -1713,7 +1713,7 @@ a.scrollup.visible {
 /* ========================= Header ========================= */
 
 .navbar-logo {
-  max-width: 450px;
+  max-width: 125px;
 }
 #header { position:relative; }
 #header.header-page {
