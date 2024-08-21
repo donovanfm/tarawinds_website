@@ -1711,7 +1711,31 @@ a.scrollup.visible {
 .animation { visibility:hidden; }
 .animated, .ie .animation, .ie9 .animation { visibility:visible; }
 
+.sponsor-badge {
+  color: black;
+  padding: 5px 15px;
+  border-radius: 4px;
+}
 
+.sponsor-badge.gold {
+  background-color: gold;
+}
+
+.sponsor-badge.silver {
+  background-color: silver;
+}
+
+.first-sponsor {
+  margin-top: 59px;
+}
+
+.second-sponsor {
+  margin-top: 0px;
+}
+
+.third-sponsor {
+  margin-top: 103px;
+}
 
 /* ========================= Header ========================= */
 
