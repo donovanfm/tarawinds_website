@@ -1715,6 +1715,14 @@ a.scrollup.visible {
   padding: 5px;
 }
 
+.sponsors.table td {
+  border: none;
+}
+
+.sponsors.table img {
+  height: 75px;
+}
+
 .sponsor-badge {
   color: black;
   padding: 5px 15px;
