@@ -1711,6 +1711,10 @@ a.scrollup.visible {
 .animation { visibility:hidden; }
 .animated, .ie .animation, .ie9 .animation { visibility:visible; }
 
+.concert-promo {
+  padding: 5px;
+}
+
 .sponsor-badge {
   color: black;
   padding: 5px 15px;
