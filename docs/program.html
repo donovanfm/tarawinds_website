@@ -226,8 +226,8 @@
         <!-- .container -->
         <div class="container-fluid padding-bottom40" style="padding-left: 24px; padding-right: 24px">
           <div class="container padding-top80 padding-bottom100">
-            <div class="row justify-content-center">
-              <div id="program-pdf"></div>
+            <div class="row justify-content-center" style="text-align: center;">
+              <div id="program-pdf" style="padding-top: 30px; padding-bottom: 80px;">If you are not automatically redirected to the program, please <a href="https://tarawinds.org/docs/Tara_Winds_May_2025_Program.pdf">click here</a> to view it.</div>
 <!--<iframe src="docs/Tara_Winds_May_2025_Program.pdf" style="width: 100%;height: 100%;border: none;"></iframe>-->
 <!--<div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -448,13 +448,16 @@ solo. Looking back, this exercise not only got the band swinging together from t
     <script type="text/javascript" src="js/jquery.counterup.min.js"></script>
     <script type="text/javascript" src="js/jquery.countdown.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
-    <script type="text/javascript" src="js/pdfobject.js"></script>
-    <script>
+    <!--<script type="text/javascript" src="js/pdfobject.js"></script>-->
+    <!--<script>
         let pdf_iframe = PDFObject.embed("docs/Tara_Winds_May_2025_Program.pdf", "#program-pdf");
         pdf_iframe.addEventListener("load", function () {
             var width = $("#program-pdf").width();
             $("#program-pdf").css('height', Math.ceil(width*9.0455));
         });
+    </script>-->
+    <script>
+      window.location.replace("https://tarawinds.org/docs/Tara_Winds_May_2025_Program.pdf");
     </script>
 
     <!-- Current Page Scripts -->
