@@ -14,7 +14,8 @@
 #     add_media.py <-- This script
 #   media.html
 #
-# Usage:
+# Usage example:
+# python3 add_media.py 2024 04-harmonies-of-humor emk_051924_Humor-028.jpg 36
 #
 
 from bs4 import BeautifulSoup as Soup
