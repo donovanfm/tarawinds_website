@@ -3977,7 +3977,7 @@ body.nav-shop-filter-open #nav-shop-filter { left:0px; }
 		}
 		
 .affa-portfolio {
-	overflow:hidden;
+	/*overflow:hidden;*/ /* commenting this out fixed the issue on the Media page where the videos were rending on top of each other. */
 	color:#777;
 	background-color:#FFF;
 	margin-bottom:40px;
